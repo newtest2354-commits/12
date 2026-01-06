@@ -1,10 +1,9 @@
 # All Configurations for AM
-# Updated: 2026-01-06 17:53:00
-# Total Count: 7
+# Updated: 2026-01-06 19:17:09
+# Total Count: 6
 # Country Code: AM
 
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0QDg1LjkwLjIwNy4xMDQ6MTg3OTI=#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#ARISTA🔥

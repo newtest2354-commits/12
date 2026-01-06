@@ -1,0 +1,6 @@
+# FR - HYSTERIA Configurations
+# Updated: 2026-01-06 19:17:09
+# Count: 1
+# Country Code: FR
+
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#ARISTA🔥

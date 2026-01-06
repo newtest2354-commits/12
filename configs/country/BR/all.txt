@@ -1,8 +1,7 @@
 # All Configurations for BR
-# Updated: 2026-01-06 17:53:00
-# Total Count: 3
+# Updated: 2026-01-06 19:17:09
+# Total Count: 2
 # Country Code: BR
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ARISTA🔥

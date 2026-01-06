@@ -1,12 +1,14 @@
 # CA - VLESS Configurations
-# Updated: 2026-01-06 17:53:00
-# Count: 7
+# Updated: 2026-01-06 19:17:09
+# Count: 9
 # Country Code: CA
 
 vless://9b748976-40b5-4daa-8a54-00914726565c@104.16.53.11:8080?security=none&encryption=none&type=httpupgrade#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?path=/?ed=#ARISTA🔥
 vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@v2ray_configs_pools/Telegram,%4#ARISTA🔥
 vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.3.132:443?type=xhttp&path=/&host=&mode=stream-one&security=none#ARISTA🔥
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=#ARISTA🔥
 vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#ARISTA🔥
 vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80#ARISTA🔥
 vless://f8629dd0-239a-4a44-b4c0-8041f5e403ca@172.105.18.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#ARISTA🔥

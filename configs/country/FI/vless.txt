@@ -1,18 +1,23 @@
 # FI - VLESS Configurations
-# Updated: 2026-01-06 17:53:00
-# Count: 22
+# Updated: 2026-01-06 19:17:09
+# Count: 27
 # Country Code: FI
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#ARISTA🔥
 vless://201771a8-7ed5-4155-8295-00da0a7181ef@37.27.220.218:24199?encryption=none&type=ws&security=none#ARISTA🔥
 vless://1a56d473-d6ba-464e-b8ff-94cd824ef660@37.27.220.218:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#ARISTA🔥
 vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=%2FNT_Safe&security=none&encryption=none&type=ws#ARISTA🔥
+vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://19ed6898-8249-4af7-9b31-5cf0e13b4e59@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws#ARISTA🔥
 vless://2d2587d8-5090-4587-9ac0-d6e4c243e397@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://847688a6-d453-489f-937c-10a604c17d46@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
 vless://85dabec7-47ef-4fda-b332-83d723cc2487@141.227.170.6:46353?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=/&security=none&encryption=none&type=ws#ARISTA🔥
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#ARISTA🔥
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://bc5ce0b3-87d2-4879-a3c9-e4c06bde72c9@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥

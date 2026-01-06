@@ -1,7 +1,8 @@
 # All Configurations for IT
-# Updated: 2026-01-06 16:42:42
-# Total Count: 2
+# Updated: 2026-01-06 17:53:00
+# Total Count: 3
 # Country Code: IT
 
+vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

@@ -1,55 +1,76 @@
 # Country Classification Summary
-# Updated: 2026-01-06 16:42:42
+# Updated: 2026-01-06 17:53:00
 
-Total configs processed: 12750
-IP-based configs: 2272
+Total configs processed: 12947
+IP-based configs: 2507
   - Fixed IP (Datacenter): 0
   - CDN IP: 0
-  - Unknown IP: 2272
-Domain-based configs: 10340
+  - Unknown IP: 2507
+Domain-based configs: 10301
 
 IP-Based Configs by Country:
-  UNKNOWN: 1881
-  FR: 83
-  DE: 53
-  US: 33
+  UNKNOWN: 1773
+  PL: 102
+  FR: 95
+  DE: 95
+  US: 67
+  GB: 45
+  CA: 33
+  IR: 32
   CN: 29
-  CA: 23
-  NL: 22
-  GB: 22
-  FI: 16
-  TR: 16
-  PL: 12
-  CZ: 9
-  IR: 8
-  HK: 8
-  SE: 8
+  NL: 29
+  FI: 28
+  TR: 23
+  VN: 16
+  SE: 15
+  CZ: 13
+  SG: 10
+  HK: 10
+  RU: 7
+  AM: 7
   AE: 6
   AU: 6
   IL: 6
-  RU: 4
+  JP: 4
+  MY: 3
+  IT: 3
+  BG: 3
+  PT: 3
+  UA: 3
   AR: 3
-  AM: 3
+  BR: 3
+  MX: 3
   RO: 2
-  IT: 2
-  BG: 2
+  NO: 2
+  IE: 2
   OM: 2
   AT: 2
   DK: 2
-  BR: 2
-  SG: 2
-  JP: 2
-  MX: 1
+  RS: 2
+  PK: 2
+  MK: 2
+  IN: 1
+  AZ: 1
+  VE: 1
+  CH: 1
+  KZ: 1
+  KR: 1
+  KW: 1
+  SI: 1
+  LV: 1
+  CO: 1
+  MD: 1
+  IS: 1
+  TW: 1
   ES: 1
-  RS: 1
 
 By Protocol:
-  vless: 8959
-  hysteria: 1555
-  ss: 1009
-  vmess: 780
-  trojan: 309
+  vless: 8965
+  hysteria: 1557
+  ss: 1262
+  vmess: 743
+  trojan: 281
 
 By IP Type:
-  DOMAIN: 10340
-  UNKNOWN: 2272
+  DOMAIN: 10301
+  UNKNOWN: 2507

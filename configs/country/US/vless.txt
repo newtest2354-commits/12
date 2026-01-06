@@ -1,13 +1,33 @@
 # US - VLESS Configurations
-# Updated: 2026-01-06 16:42:42
-# Count: 8
+# Updated: 2026-01-06 17:53:00
+# Count: 28
 # Country Code: US
 
+vless://c88811ea-fead-4e2d-b34d-7d8725896304@62.60.176.237:2052?path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&security=none&encryption=none&type=ws#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#ARISTA🔥
 vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=%2FthqUaEuuyteRBTrgg%40noforcedheaven&security=&encryption=none&type=ws#ARISTA🔥
 vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=%2FthqUaEuuyteRBTrgg%40noforcedheaven&security=none&encryption=none&type=ws#ARISTA🔥
+vless://c88811ea-fead-4e2d-b34d-7d8725896304@62.60.176.237:2052?path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&security=none&encryption=none&type=ws#ARISTA🔥
+vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?encryption=none&type=ws&host=---@FREEV2RNG&path=%2Fvless%2F&security=none#ARISTA🔥
+vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#ARISTA🔥
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=&encryption=none&host=/v2ray_configs_pools_BIA_CHANEL@v2ray_configs_pools&headerType=none&type=tcp#ARISTA🔥
 vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/thqUaEuuyteRBTrgg@noforcedheaven&security=none&encryption=none&type=ws#ARISTA🔥
 vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=/thqUaEuuyteRBTrgg@noforcedheaven&security=&encryption=none&type=ws#ARISTA🔥
 vless://9cf69f8e-893e-4a99-aa5f-a9d330f97b06@23.94.206.70:8080?path=/FasSoortbhhPssnvfsgnq@ed=2560&security=&encryption=none&type=ws#ARISTA🔥
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#ARISTA🔥
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?encryption=none&security=none&type=xhttp&path=/&mode=stream-one#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.216.147:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.78.9:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.192:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.74.250:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.62:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.190:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.15.211:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.7.224:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=/sef/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.149:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#ARISTA🔥
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#ARISTA🔥

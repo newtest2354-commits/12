@@ -1,0 +1,7 @@
+# PK - SS Configurations
+# Updated: 2026-01-06 17:53:00
+# Count: 2
+# Country Code: PK
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzlkODEzNTgzNDZjYTdm@154.205.145.195:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#ARISTA🔥

@@ -1,6 +1,8 @@
 # All Configurations for MX
-# Updated: 2026-01-06 16:42:42
-# Total Count: 1
+# Updated: 2026-01-06 17:53:00
+# Total Count: 3
 # Country Code: MX
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#ARISTA🔥

@@ -1,0 +1,6 @@
+# All Configurations for IN
+# Updated: 2026-01-06 17:53:00
+# Total Count: 1
+# Country Code: IN
+
+vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

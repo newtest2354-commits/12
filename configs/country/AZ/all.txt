@@ -1,0 +1,6 @@
+# All Configurations for AZ
+# Updated: 2026-01-06 17:53:00
+# Total Count: 1
+# Country Code: AZ
+
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

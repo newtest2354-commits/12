@@ -1,0 +1,112 @@
+name: Update ARISTA Configs Every 3 Hours
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-all-configs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: Random delay
+      run: sleep $((RANDOM % 300 + 60))
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 geoip2 maxminddb dnspython
+        
+    - name: Download GeoLite2 databases
+      run: |
+        mkdir -p geoip_data
+        wget -q "https://git.io/GeoLite2-ASN.mmdb" -O geoip_data/GeoLite2-ASN.mmdb || true
+        wget -q "https://git.io/GeoLite2-Country.mmdb" -O geoip_data/GeoLite2-Country.mmdb || true
+        if [ ! -f geoip_data/GeoLite2-ASN.mmdb ] || [ ! -f geoip_data/GeoLite2-Country.mmdb ]; then
+          echo "Warning: Could not download GeoLite2 databases, using fallback mode"
+        fi
+        
+    - name: Clean old config files
+      run: |
+        rm -rf configs/
+        mkdir -p configs/telegram configs/github configs/combined configs/country
+        
+    - name: Run Telegram Config Extractor
+      run: python telegram_extractor.py
+      timeout-minutes: 20
+        
+    - name: Run GitHub Config Extractor
+      run: python github_extractor.py
+      timeout-minutes: 15
+        
+    - name: Combine Configs
+      run: python combine_configs.py
+        
+    - name: Run Enhanced Country Classifier
+      run: python enhanced_country_classifier.py
+      timeout-minutes: 35
+      env:
+        MAX_WORKERS: 25
+        GEOIP_DIR: ./geoip_data
+        
+    - name: Create enhanced summary
+      run: |
+        date > last_update.txt
+        echo "Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > update_info.txt
+        echo "Telegram configs: $(wc -l < configs/telegram/all.txt 2>/dev/null || echo 0)" >> update_info.txt
+        echo "GitHub configs: $(wc -l < configs/github/all.txt 2>/dev/null || echo 0)" >> update_info.txt
+        echo "Combined configs: $(wc -l < configs/combined/all.txt 2>/dev/null || echo 0)" >> update_info.txt
+        
+        if [ -f configs/country/stats.json ]; then
+          echo "IP Classification Stats:" >> update_info.txt
+          echo "Fixed IP (Datacenter): $(jq '.fixed_ip' configs/country/stats.json)" >> update_info.txt
+          echo "CDN IP: $(jq '.cdn_ip' configs/country/stats.json)" >> update_info.txt
+          echo "Unknown IP: $(jq '.unknown_ip' configs/country/stats.json)" >> update_info.txt
+        fi
+        
+        echo "Top 5 countries:" >> update_info.txt
+        if [ -f configs/country/stats.json ]; then
+          jq -r '.by_country | to_entries | sort_by(-.value) | .[:5] | .[] | "  \(.key): \(.value)"' configs/country/stats.json >> update_info.txt 2>/dev/null || echo "  (stats unavailable)" >> update_info.txt
+        fi
+        
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+    - name: Pull latest changes
+      run: |
+        git pull origin main --rebase || true
+        
+    - name: Commit and push changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔄 Enhanced Configs update $(date -u '+%Y-%m-%d %H:%M UTC')
+          
+          - Added IP type classification (CDN/Fixed/Unknown)
+          - Enhanced GeoIP with ASN detection
+          - Improved DNS resolution
+          - Updated country stats"
+          git pull origin main --rebase --autostash
+          git push origin main
+        fi

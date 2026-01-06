@@ -1,8 +1,13 @@
 # All Configurations for CH
-# Updated: 2026-01-06 19:17:09
-# Total Count: 3
+# Updated: 2026-01-06 22:04:44
+# Total Count: 8
 # Country Code: CH
 
 vless://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#ARISTA🔥
 vless://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 ss://YWVzLTEyOC1nY206dnlabFctb0Zfa1RpcE1CNnVBaUt6QQ@195.15.241.91:443#ARISTA🔥
+ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#ARISTA🔥
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#ARISTA🔥
+ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#ARISTA🔥
+ss://YWVzLTI1Ni1nY206MDE3YzczODRmYzk5NjM4ZA@167.17.183.59:20219#ARISTA🔥
+ss://YWVzLTI1Ni1nY206MDE3YzczODRmYzk5NjM4ZA@167.17.183.59:2091#ARISTA🔥

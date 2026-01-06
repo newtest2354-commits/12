@@ -1,0 +1,6 @@
+# AE - VLESS Configurations
+# Updated: 2026-01-06 22:04:44
+# Count: 1
+# Country Code: AE
+
+vless://628a1148-09a4-4808-b484-806f6206e6ba@31.57.228.213:80?encryption=none&type=ws&path=/ed=2560&security=none#ARISTA🔥

@@ -1,0 +1,6 @@
+# CN - VMESS Configurations
+# Updated: 2026-01-06 16:42:42
+# Count: 1
+# Country Code: CN
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzguOTAuMyIsInBvcnQiOiI0MDg5MCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiJBUklTVEHwn5SlIn0=

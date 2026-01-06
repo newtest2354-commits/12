@@ -1,0 +1,13 @@
+# US - VLESS Configurations
+# Updated: 2026-01-06 16:42:42
+# Count: 8
+# Country Code: US
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#ARISTA🔥
+vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=%2FthqUaEuuyteRBTrgg%40noforcedheaven&security=&encryption=none&type=ws#ARISTA🔥
+vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=%2FthqUaEuuyteRBTrgg%40noforcedheaven&security=none&encryption=none&type=ws#ARISTA🔥
+vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/thqUaEuuyteRBTrgg@noforcedheaven&security=none&encryption=none&type=ws#ARISTA🔥
+vless://7b71f04e-984f-4c59-8875-790ba512c56a@5.78.50.111:2095?path=/thqUaEuuyteRBTrgg@noforcedheaven&security=&encryption=none&type=ws#ARISTA🔥
+vless://9cf69f8e-893e-4a99-aa5f-a9d330f97b06@23.94.206.70:8080?path=/FasSoortbhhPssnvfsgnq@ed=2560&security=&encryption=none&type=ws#ARISTA🔥
+vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#ARISTA🔥
+vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?encryption=none&security=none&type=xhttp&path=/&mode=stream-one#ARISTA🔥

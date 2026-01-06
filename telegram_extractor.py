@@ -23,6 +23,24 @@ class TelegramConfigExtractor:
         })
         
         self.channels = [
+        "https://t.me/s/V2rayNG_Cila",
+            "https://t.me/s/king_v2raay",
+            "https://t.me/s/shahincrafto",
+            "https://t.me/s/DailyV2Config",
+            "https://t.me/s/rxv2ray",
+            "https://t.me/s/as12rgh",
+            "https://t.me/s/Pro_v2rayShop",
+            "https://t.me/s/WorldVPN6",
+            "https://t.me/s/free_servers1",
+            "https://t.me/s/skypro_vpn",
+            "https://t.me/VayNora",
+            "https://t.me/V2ray_khabar",
+            "https://t.me/+3qTKfGn3u1EzOWQ8",
+            "https://t.me/surfboardv2ray",
+            "https://t.me/subHiddify",
+            "https://t.me/s/rojproxy",
+            "https://t.me/v2nodes",
+            "https://t.me/hack_proxy1",
             "https://t.me/s/v2ray_configs_pool",
             "https://t.me/s/XpnTeam",
             "https://t.me/v2rayNGcloud",
@@ -550,17 +568,7 @@ class TelegramConfigExtractor:
             "https://t.me/s/V2All",
             "https://t.me/s/V2ConfigGB",
             "https://t.me/s/ittechnoland",
-            "https://t.me/s/NET2PROXY",
-            "https://t.me/s/V2rayNG_Cila",
-            "https://t.me/s/king_v2raay",
-            "https://t.me/s/shahincrafto",
-            "https://t.me/s/DailyV2Config",
-            "https://t.me/s/rxv2ray",
-            "https://t.me/s/as12rgh",
-            "https://t.me/s/Pro_v2rayShop",
-            "https://t.me/s/WorldVPN6",
-            "https://t.me/s/free_servers1",
-            "https://t.me/s/skypro_vpn"
+            "https://t.me/s/NET2PROXY"
         ]
         
         self.channels = list(set(self.channels))
@@ -628,7 +636,7 @@ class TelegramConfigExtractor:
             
             if '@' not in base_part:
                 if len(base_part) % 4 != 0:
-                    base_part += '=' * (4 - len(base64_part) % 4)
+                    base_part += '=' * (4 - len(base_part) % 4)
                 try:
                     decoded = base64.b64decode(base_part).decode('utf-8')
                     if '@' in decoded:

@@ -1,6 +1,6 @@
 # TR - VLESS Configurations
-# Updated: 2026-01-07 16:08:31
-# Count: 13
+# Updated: 2026-01-07 19:14:55
+# Count: 14
 # Country Code: TR
 
 vless://6cb81e33-d011-4500-936b-5d38e90ca3fb@abiidar-free.avamovie1.top:4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#ARISTA🔥
@@ -9,10 +9,11 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?encryption=none&h
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#ARISTA🔥
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#ARISTA🔥
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@45.92.219.41:2095?encryption=none&type=tcp&headerType=http&host=@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>&path=/path#ARISTA🔥
 vless://94daf8b6-07e7-4c1b-9ce4-b45b5474cbd2@tr.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.saturn-cloud.net&sid=2762604ed2e0fa2f#ARISTA🔥

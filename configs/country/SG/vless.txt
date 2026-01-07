@@ -1,6 +1,8 @@
 # SG - VLESS Configurations
-# Updated: 2026-01-07 16:08:31
-# Count: 1
+# Updated: 2026-01-07 19:14:55
+# Count: 3
 # Country Code: SG
 
+vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3&encryption=none&type=ws&sni=free-server.techsonic.cloud#ARISTA🔥
+vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&type=ws&host=free-server.techsonic.cloud&path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=free-server.techsonic.cloud#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.ok.com&sid=3f200574d011010f#ARISTA🔥

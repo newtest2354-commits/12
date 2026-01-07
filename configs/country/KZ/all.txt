@@ -1,9 +1,10 @@
 # All Configurations for KZ
-# Updated: 2026-01-07 16:08:31
-# Total Count: 11
+# Updated: 2026-01-07 19:14:55
+# Total Count: 12
 # Country Code: KZ
 
 vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsIm5hbWUiOiI+PkB2bWVzc2lyYW46OktaIn0=
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.74.245:8443?security=reality&encryption=none&pbk=Q14CnaHWZmHtoKtHOJyZoZgvGrOkiwN75hXakkrNCHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kzt.overload.ovh&sid=d51dc759a379666c#ARISTA🔥
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.74.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kzt.overload.ovh&fp=chrome&security=reality&pbk=Q14CnaHWZmHtoKtHOJyZoZgvGrOkiwN75hXakkrNCHQ&sid=d51dc759a379666c#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aigul.kosmolet.xyz&fp=chrome&security=reality&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ARISTA🔥

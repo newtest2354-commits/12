@@ -1,5 +1,5 @@
 # All Configurations for ES
-# Updated: 2026-01-07 16:08:31
+# Updated: 2026-01-07 19:14:55
 # Total Count: 2
 # Country Code: ES
 

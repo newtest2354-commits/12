@@ -1,14 +1,15 @@
 # All Configurations for AU
-# Updated: 2026-01-07 16:08:31
-# Total Count: 9
+# Updated: 2026-01-07 19:14:55
+# Total Count: 10
 # Country Code: AU
 
-vless://f436c89d-3e3f-49fb-8423-03ba30a7ad40@65.109.197.62:443?mode=auto&path=%2F%40V2RayyNGvpn&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=www.wordrefrence.com#ARISTA🔥
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
 vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
+vless://f436c89d-3e3f-49fb-8423-03ba30a7ad40@65.109.197.62:443?mode=auto&path=%2F%40V2RayyNGvpn&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=www.wordrefrence.com#ARISTA🔥
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ARISTA🔥

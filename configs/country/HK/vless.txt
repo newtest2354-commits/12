@@ -1,9 +1,10 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-07 16:08:31
-# Count: 4
+# Updated: 2026-01-07 19:14:55
+# Count: 5
 # Country Code: HK
 
+vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
 vless://4b12d9ec-75a2-4def-bf07-7675caa1aec7@1.1.1.1:1112?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&type=ws&host=vless.muzheng.top&path=%2FTelegram%40ShadowProxy66&security=tls&sni=vless.muzheng.top#ARISTA🔥
 vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?encryption=none&type=tcp#ARISTA🔥
-vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥

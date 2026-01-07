@@ -1,6 +1,7 @@
 # KR - SS Configurations
-# Updated: 2026-01-07 19:14:55
-# Count: 1
+# Updated: 2026-01-07 21:55:25
+# Count: 2
 # Country Code: KR
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#ARISTA🔥

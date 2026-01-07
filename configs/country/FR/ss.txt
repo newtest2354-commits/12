@@ -1,7 +1,8 @@
 # FR - SS Configurations
-# Updated: 2026-01-07 19:14:55
-# Count: 2
+# Updated: 2026-01-07 21:55:25
+# Count: 3
 # Country Code: FR
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#ARISTA🔥

@@ -1,8 +1,8 @@
 # KZ - VLESS Configurations
-# Updated: 2026-01-07 19:14:55
+# Updated: 2026-01-07 21:55:25
 # Count: 3
 # Country Code: KZ
 
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.74.245:8443?security=reality&encryption=none&pbk=Q14CnaHWZmHtoKtHOJyZoZgvGrOkiwN75hXakkrNCHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kzt.overload.ovh&sid=d51dc759a379666c#ARISTA🔥
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.74.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kzt.overload.ovh&fp=chrome&security=reality&pbk=Q14CnaHWZmHtoKtHOJyZoZgvGrOkiwN75hXakkrNCHQ&sid=d51dc759a379666c#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aigul.kosmolet.xyz&fp=chrome&security=reality&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥

@@ -1,0 +1,6 @@
+# All Configurations for MK
+# Updated: 2026-01-07 03:48:47
+# Total Count: 1
+# Country Code: MK
+
+vless://c6bd55f5-6595-4bb7-b470-c43f8311a3bf@delta-ocean-core-gateway-star.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#ARISTA🔥

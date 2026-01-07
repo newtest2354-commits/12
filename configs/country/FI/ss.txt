@@ -1,0 +1,7 @@
+# FI - SS Configurations
+# Updated: 2026-01-07 03:48:47
+# Count: 2
+# Country Code: FI
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmbW9RcXpMUzdRMjZWWHZFdXo0VlVz@77.91.70.76:443#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno=@185.242.247.149:443#ARISTA🔥

@@ -1,0 +1,6 @@
+# TR - VLESS Configurations
+# Updated: 2026-01-07 03:48:47
+# Count: 1
+# Country Code: TR
+
+vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=chrome&type=ws#ARISTA🔥

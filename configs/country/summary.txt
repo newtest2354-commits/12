@@ -1,0 +1,67 @@
+# Country Classification Summary
+# Updated: 2026-01-07 03:48:47
+
+Total configs processed: 12871
+IP-based configs: 10501
+  - Fixed IP (Datacenter): 0
+  - CDN IP (Excluded): 0
+  - Unknown IP: 10501
+Domain-based configs: 2228
+
+IP-Based Configs by Country (CDN Excluded):
+  UNKNOWN: 6053
+  CA: 1598
+  US: 1138
+  RU: 782
+  DE: 170
+  IR: 147
+  NL: 127
+  FR: 94
+  FI: 67
+  GB: 57
+  HK: 56
+  VN: 45
+  CN: 32
+  CH: 21
+  PL: 17
+  SG: 12
+  SE: 9
+  AE: 8
+  CZ: 7
+  UA: 7
+  SK: 5
+  JP: 5
+  TR: 4
+  LU: 4
+  LV: 4
+  AU: 4
+  RO: 3
+  EE: 3
+  BG: 3
+  KZ: 3
+  AR: 3
+  IN: 2
+  CL: 2
+  ZA: 2
+  BR: 1
+  ID: 1
+  IT: 1
+  MK: 1
+  GT: 1
+  SI: 1
+  MX: 1
+
+By Protocol:
+  vless: 8970
+  hysteria: 1538
+  ss: 1194
+  vmess: 740
+  trojan: 287
+
+By IP Type:
+  UNKNOWN: 10501
+  DOMAIN: 2228
+
+Detailed IP Type Summary:
+  UNKNOWN: 10501 configs
+  DOMAIN: 2228 configs

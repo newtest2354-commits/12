@@ -1,0 +1,9 @@
+# All Configurations for TR
+# Updated: 2026-01-07 03:48:47
+# Total Count: 4
+# Country Code: TR
+
+vmess://eyJhZGQiOiIxNTQuNTMuMTY0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI1ZmMyZTQxLWU2NTQtNGI1MS1hOTYyLTIyZjc3ZmYyYTk3OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=chrome&type=ws#ARISTA🔥
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#ARISTA🔥

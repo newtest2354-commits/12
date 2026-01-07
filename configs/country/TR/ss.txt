@@ -1,0 +1,7 @@
+# TR - SS Configurations
+# Updated: 2026-01-07 03:48:47
+# Count: 2
+# Country Code: TR
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#ARISTA🔥

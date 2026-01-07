@@ -1,0 +1,8 @@
+# JP - HYSTERIA Configurations
+# Updated: 2026-01-07 03:48:47
+# Count: 3
+# Country Code: JP
+
+hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?insecure=1&sni=iij.mggl.wang#ARISTA🔥
+hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?security=tls&insecure=1&sni=iij.mggl.wang#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591/?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥

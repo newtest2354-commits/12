@@ -1,0 +1,6 @@
+# ES - TROJAN Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 1
+# Country Code: ES
+
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#ARISTA🔥

@@ -1,0 +1,48 @@
+# FI - VLESS Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 43
+# Country Code: FI
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&encryption=none&path=%2F&host=&security=none#ARISTA🔥
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#ARISTA🔥
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#ARISTA🔥
+vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=%2FNT_Safe&security=none&encryption=none&type=ws#ARISTA🔥
+vless://2c6a010e-bfcf-46d4-b08e-cfe3b3be7d86@144.31.143.175:80?path=%2Fw&security=&encryption=none&type=ws#ARISTA🔥
+vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#ARISTA🔥
+vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://19ed6898-8249-4af7-9b31-5cf0e13b4e59@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws#ARISTA🔥
+vless://235790b1-361c-457d-a36d-3d61f6947525@65.109.189.166:38823?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&type=ws#ARISTA🔥
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=/&security=none&encryption=none&type=ws#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?security=reality&encryption=none&type=xhttp#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.37:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@157.180.88.25:443?security=reality&encryption=none&type=xhttp#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@46.62.160.173:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.191.204:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.214.242:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@95.216.169.13:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#ARISTA🔥
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=/&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#ARISTA🔥
+vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.168:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---_T------_T&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
+vless://e6e6d7b7-778c-42cb-b704-553126743195@64.188.74.220:7443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=77.88.8.8&sid=6ba85179e30d4fc2#ARISTA🔥

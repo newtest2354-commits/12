@@ -1,0 +1,7 @@
+# UA - SS Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 2
+# Country Code: UA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#ARISTA🔥

@@ -1,0 +1,7 @@
+# HK - VLESS Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 2
+# Country Code: HK
+
+vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=&type=tcp&encryption=none#ARISTA🔥

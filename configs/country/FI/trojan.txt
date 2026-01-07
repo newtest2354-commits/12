@@ -1,0 +1,6 @@
+# FI - TROJAN Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 1
+# Country Code: FI
+
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls#ARISTA🔥

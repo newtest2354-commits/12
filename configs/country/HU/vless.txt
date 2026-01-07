@@ -1,0 +1,10 @@
+# HU - VLESS Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 5
+# Country Code: HU
+
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/IVApi/US/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/UK/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/TR/1&security=none&encryption=none&type=ws#ARISTA🔥

@@ -1,0 +1,8 @@
+# AE - VLESS Configurations
+# Updated: 2026-01-07 02:35:50
+# Count: 3
+# Country Code: AE
+
+vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
+vless://628a1148-09a4-4808-b484-806f6206e6ba@31.57.228.213:80?encryption=none&type=ws&path=/ed=2560&security=none#ARISTA🔥

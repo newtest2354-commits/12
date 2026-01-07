@@ -1,7 +1,8 @@
 # GB - HYSTERIA Configurations
-# Updated: 2026-01-07 03:48:47
-# Count: 2
+# Updated: 2026-01-07 04:34:55
+# Count: 3
 # Country Code: GB
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun2.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?insecure=1&sni=lundun2.nezhasu.com#ARISTA🔥
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@lundun3.nezhasu.com:443?insecure=1&sni=lundun3.nezhasu.com#ARISTA🔥

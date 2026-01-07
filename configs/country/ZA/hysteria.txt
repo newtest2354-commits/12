@@ -1,7 +1,8 @@
 # ZA - HYSTERIA Configurations
-# Updated: 2026-01-07 03:48:47
-# Count: 2
+# Updated: 2026-01-07 04:34:55
+# Count: 3
 # Country Code: ZA
 
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-3.nezhasu.com#ARISTA🔥
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-4.nezhasu.com#ARISTA🔥
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-2.nezhasu.com#ARISTA🔥

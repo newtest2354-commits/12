@@ -1,0 +1,7 @@
+# KR - HYSTERIA Configurations
+# Updated: 2026-01-07 04:34:55
+# Count: 2
+# Country Code: KR
+
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056?insecure=1&sni=cc1.mangshe.xyz#ARISTA🔥
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056/?insecure=1&sni=cc1.mangshe.xyz#ARISTA🔥

@@ -1,7 +1,9 @@
 # RO - VLESS Configurations
-# Updated: 2026-01-07 03:48:47
-# Count: 2
+# Updated: 2026-01-07 04:34:55
+# Count: 4
 # Country Code: RO
 
 vless://7e6b8047-6f79-436f-a5dc-6fcd3b23bfa5@vaynora.shahinstore1.com:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1934c801-b10e-421d-8163-f9efac8a9fd1@141.227.180.39:22292?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#ARISTA🔥
+vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#ARISTA🔥

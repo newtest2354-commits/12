@@ -1,0 +1,6 @@
+# CR - VLESS Configurations
+# Updated: 2026-01-07 04:34:55
+# Count: 1
+# Country Code: CR
+
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#ARISTA🔥

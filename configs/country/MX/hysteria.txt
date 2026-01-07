@@ -1,0 +1,6 @@
+# MX - HYSTERIA Configurations
+# Updated: 2026-01-07 04:34:55
+# Count: 1
+# Country Code: MX
+
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#ARISTA🔥

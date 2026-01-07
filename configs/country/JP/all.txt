@@ -1,10 +1,19 @@
 # All Configurations for JP
-# Updated: 2026-01-07 03:48:47
-# Total Count: 5
+# Updated: 2026-01-07 04:34:55
+# Total Count: 14
 # Country Code: JP
 
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0=@139.162.72.96:22060#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?insecure=1&sni=iij.mggl.wang#ARISTA🔥
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?security=tls&insecure=1&sni=iij.mggl.wang#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591/?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@rb.kaixincloud.top:25200?sni=rb.kaixincloud.top&mport=25200-26200#ARISTA🔥
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#ARISTA🔥

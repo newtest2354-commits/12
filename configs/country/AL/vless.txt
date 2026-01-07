@@ -1,0 +1,6 @@
+# AL - VLESS Configurations
+# Updated: 2026-01-07 04:34:55
+# Count: 1
+# Country Code: AL
+
+vless://71e0492e-9dc5-4fef-891b-15c983934886@185.177.238.40:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=alban.normbot.ru&sid=505adbea98a0b5fe#ARISTA🔥

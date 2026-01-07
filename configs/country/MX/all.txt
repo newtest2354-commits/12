@@ -1,6 +1,7 @@
 # All Configurations for MX
-# Updated: 2026-01-07 03:48:47
-# Total Count: 1
+# Updated: 2026-01-07 04:34:55
+# Total Count: 2
 # Country Code: MX
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#ARISTA🔥
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#ARISTA🔥

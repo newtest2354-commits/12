@@ -1,6 +1,0 @@
-# HK - TROJAN Configurations
-# Updated: 2026-01-07 02:35:50
-# Count: 1
-# Country Code: HK
-
-trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#ARISTA🔥

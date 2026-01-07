@@ -1,8 +1,0 @@
-# JP - VLESS Configurations
-# Updated: 2026-01-07 02:35:50
-# Count: 3
-# Country Code: JP
-
-vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://760738153-client-573@5.253.41.68:2087?path=/data-x1a3p/#ARISTA🔥
-vless://8153220491-client-f8d@5.253.41.68:2087?path=/data-x1a3p/#ARISTA🔥

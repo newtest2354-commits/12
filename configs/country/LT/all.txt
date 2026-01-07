@@ -1,8 +1,0 @@
-# All Configurations for LT
-# Updated: 2026-01-07 02:35:50
-# Total Count: 3
-# Country Code: LT
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#ARISTA🔥

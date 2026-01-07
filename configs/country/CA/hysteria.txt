@@ -1,28 +1,28 @@
 # CA - HYSTERIA Configurations
-# Updated: 2026-01-07 14:16:45
-# Count: 148
+# Updated: 2026-01-07 16:08:31
+# Count: 147
 # Country Code: CA
 
 hysteria2://svoKgSoqf6@213.165.55.65:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=Tgju.org#ARISTA🔥
-hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@uk2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://47db373b-d23c-4acb-bfd9-dace39c4f1e4@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
+hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii&insecure=1&sni=ghasem.kotlet.org#ARISTA🔥
 hysteria2://2cUfzeGOZG@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://46gfRN8Pcy@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
+hysteria2://6fpNfkUmvR@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
 hysteria2://7TsyG1ypRJ@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://7gRVZGuNHc@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://7l9x40rVnS@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://7vsrTEAyOw@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://BNKPIBT5bF@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
-hysteria2://6fpNfkUmvR@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
 hysteria2://ByBeTp5j5C@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
-hysteria2://Cp0LaDHbP7@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://CA6haTDbz3@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
+hysteria2://Cp0LaDHbP7@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://EKLeRwhlYy@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
-hysteria2://ExKneYKbzb@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://EvKTg4KCrv@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
+hysteria2://ExKneYKbzb@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://I5RKPsSYiP@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://KWodTw4Y06@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://MaylSzuBEK@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
@@ -47,12 +47,11 @@ hysteria2://uoGRSTIwX9@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://wXh99oRDIt@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://wkAHoJxpH6@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://yrBnLOzhOi@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥
-hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii&insecure=1&sni=ghasem.kotlet.org#ARISTA🔥
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197?insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com#ARISTA🔥
@@ -62,8 +61,8 @@ hysteria2://XON4wZ0sXe1YaqFY2FeM7uZY4@122.248.205.111:15221?insecure=1&sni=bing.
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://fWydUhyG3woKe4a0kcKKKdx78@8.219.232.60:6467?insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://2cUfzeGOZG@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
 hysteria2://46gfRN8Pcy@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
@@ -104,7 +103,7 @@ hysteria2://n70AvqlNnq@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.o
 hysteria2://oivSVs1Wgz@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
 hysteria2://p1zskFmlFN@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#ARISTA🔥
 hysteria2://sKztXL5kZB@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#ARISTA🔥
-hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#ARISTA🔥
+hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii#ARISTA🔥
 hysteria2://uoGRSTIwX9@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
 hysteria2://wXh99oRDIt@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
 hysteria2://wkAHoJxpH6@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
@@ -112,22 +111,20 @@ hysteria2://yrBnLOzhOi@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salama
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#ARISTA🔥
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk1.oomz.ru:50000?sni=bing.com&amp;insecure=1#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk1.oomz.ru:50000?sni=bing.com&insecure=1#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk2.oomz.ru:50000?sni=bing.com&amp;insecure=1#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@hk2.oomz.ru:50000?sni=bing.com&insecure=1#ARISTA🔥
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@sg3.oomz.ru:30000?sni=bing.com&insecure=1#ARISTA🔥
-hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii#ARISTA🔥
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?sni=bing.com&amp;insecure=1&amp;security=tls#ARISTA🔥
 hysteria2://7l9x40rVnS@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com&note=@freeOnlineVPN#ARISTA🔥
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de2.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de3.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de3.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr1.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr2.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr2.oomz.ru:30000?sni=bing.com&insecure=1#ARISTA🔥
@@ -139,6 +136,7 @@ hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us5.oomz.ru:30000?insecure=1&sn
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us6.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us7.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@us8.oomz.ru:30000?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
 hysteria2://I5RKPsSYiP@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://I5RKPsSYiP@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com&note=@freeOnlineVPN#ARISTA🔥
 hysteria2://J9MCnSyy8y@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#ARISTA🔥
@@ -151,3 +149,4 @@ hysteria2://VaKHp6TQN6@91.99.225.11:20820?security=tls&obfs=salamander&obfs-pass
 hysteria2://vrhh6FbEdi@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#ARISTA🔥
 hysteria2://vrhh6FbEdi@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#ARISTA🔥
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#ARISTA🔥
+hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#ARISTA🔥

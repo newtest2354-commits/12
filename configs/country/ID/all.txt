@@ -1,9 +1,8 @@
 # All Configurations for ID
-# Updated: 2026-01-07 14:16:45
-# Total Count: 6
+# Updated: 2026-01-07 16:08:31
+# Total Count: 5
 # Country Code: ID
 
-vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?insecure=1&sni=batam3.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?insecure=1&sni=yn2.nezhasu.com#ARISTA🔥

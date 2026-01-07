@@ -1,9 +1,9 @@
 # All Configurations for LT
-# Updated: 2026-01-07 14:16:45
+# Updated: 2026-01-07 16:08:31
 # Total Count: 4
 # Country Code: LT
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#ARISTA🔥
-vless://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#ARISTA🔥

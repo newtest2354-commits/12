@@ -1,6 +1,0 @@
-# LI - VLESS Configurations
-# Updated: 2026-01-07 14:16:45
-# Count: 1
-# Country Code: LI
-
-vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#ARISTA🔥

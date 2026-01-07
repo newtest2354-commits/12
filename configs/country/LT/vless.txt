@@ -1,7 +1,6 @@
 # LT - VLESS Configurations
-# Updated: 2026-01-07 14:16:45
-# Count: 2
+# Updated: 2026-01-07 16:08:31
+# Count: 1
 # Country Code: LT
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#ARISTA🔥
-vless://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#ARISTA🔥

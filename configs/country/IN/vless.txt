@@ -1,8 +1,8 @@
 # IN - VLESS Configurations
-# Updated: 2026-01-07 14:16:45
+# Updated: 2026-01-07 16:08:31
 # Count: 3
 # Country Code: IN
 
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=inditech.overload.ovh&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#ARISTA🔥
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

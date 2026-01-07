@@ -1,105 +1,105 @@
 # Country Classification Summary
-# Updated: 2026-01-07 14:16:45
+# Updated: 2026-01-07 16:08:31
 
-Total configs processed: 10383
-IP-based configs: 8514
+Total configs processed: 8474
+IP-based configs: 6968
   - Fixed IP (Datacenter): 0
   - CDN IP (Excluded): 0
-  - Unknown IP: 8514
-Domain-based configs: 1735
+  - Unknown IP: 6968
+Domain-based configs: 1384
 
 IP-Based Configs by Country (CDN Excluded):
-  CA: 1897
-  UNKNOWN: 1810
-  US: 1531
-  RU: 1168
-  DE: 391
-  IR: 275
-  NL: 274
-  PL: 151
-  FR: 145
-  HK: 143
-  GB: 135
-  FI: 95
-  TR: 43
-  SE: 35
-  SG: 34
-  AE: 30
-  JP: 26
-  IN: 21
-  VN: 21
-  CH: 20
-  MX: 14
-  GR: 14
-  BR: 12
-  UA: 11
-  CZ: 11
-  CN: 10
+  CA: 1545
+  UNKNOWN: 1467
+  RU: 1135
+  US: 978
+  DE: 314
+  NL: 261
+  IR: 210
+  HK: 150
+  PL: 147
+  FR: 132
+  GB: 99
+  FI: 72
+  SG: 31
+  JP: 29
+  TR: 27
+  AE: 27
+  IN: 24
+  SE: 23
+  BR: 20
+  VN: 20
+  MX: 15
+  CN: 11
+  KZ: 11
+  GR: 11
+  IL: 11
   EE: 10
-  RO: 10
-  KZ: 10
-  LV: 9
-  AU: 8
+  UA: 10
+  AU: 9
+  CH: 9
   MK: 8
+  IT: 7
+  KR: 7
   MY: 7
   HU: 7
-  SA: 7
-  IL: 7
-  KR: 6
-  TH: 6
+  RO: 7
   AM: 6
-  ID: 6
-  IT: 5
+  LV: 6
+  SA: 6
+  JO: 6
+  TH: 5
   SK: 5
   TW: 5
-  ZA: 5
+  MD: 5
+  ID: 5
   EG: 5
   LT: 4
-  RS: 4
-  MT: 4
-  MD: 4
+  SI: 4
+  ZA: 4
   VG: 3
+  CZ: 3
   LU: 3
-  AL: 3
-  SI: 3
+  RS: 3
   AR: 3
+  CY: 3
   PT: 3
-  AZ: 2
-  CR: 2
   NO: 2
   CL: 2
-  PR: 2
-  BE: 2
-  CO: 2
+  PK: 2
   ES: 2
-  BG: 1
+  PR: 2
+  CO: 2
+  MT: 2
   IE: 1
-  AT: 1
-  LI: 1
+  AL: 1
   GT: 1
   OM: 1
   KW: 1
-  PK: 1
-  JO: 1
+  AZ: 1
   NG: 1
+  MM: 1
+  AT: 1
   PE: 1
+  HR: 1
+  MA: 1
   EC: 1
+  BE: 1
   KH: 1
-  PA: 1
   BH: 1
 
 By Protocol:
-  vless: 6904
-  hysteria: 1527
-  ss: 888
-  vmess: 661
-  trojan: 268
+  vless: 5268
+  hysteria: 1512
+  ss: 753
+  vmess: 604
+  trojan: 214
   wireguard: 1
 
 By IP Type:
-  UNKNOWN: 8514
-  DOMAIN: 1735
+  UNKNOWN: 6968
+  DOMAIN: 1384
 
 Detailed IP Type Summary:
-  UNKNOWN: 8514 configs
-  DOMAIN: 1735 configs
+  UNKNOWN: 6968 configs
+  DOMAIN: 1384 configs

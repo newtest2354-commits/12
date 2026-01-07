@@ -1,0 +1,6 @@
+# CN - VLESS Configurations
+# Updated: 2026-01-07 16:08:31
+# Count: 1
+# Country Code: CN
+
+vless://28746fbc-1f07-4c18-99e2-610b2565f952@cf.yuncat.top:443?path=/vlwstlscdn?ed=2560&security=tls&encryption=none&insecure=0&host=music-1.313435.xyz&type=ws&allowInsecure=0&sni=music-1.313435.xyz#ARISTA🔥

@@ -1,8 +1,12 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-07 04:34:55
-# Count: 3
+# Updated: 2026-01-07 07:28:26
+# Count: 7
 # Country Code: HU
 
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.158:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.35:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=qq&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@51.250.104.227:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=e55fd8f9c9a9a0ca#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/IVApi/US/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/TR/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/UK/1&security=none&encryption=none&type=ws#ARISTA🔥

@@ -1,6 +1,8 @@
 # JP - VLESS Configurations
-# Updated: 2026-01-07 04:34:55
-# Count: 1
+# Updated: 2026-01-07 07:28:26
+# Count: 3
 # Country Code: JP
 
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=b52815d3a6ac45b4#ARISTA🔥
+vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

@@ -1,0 +1,6 @@
+# MY - VLESS Configurations
+# Updated: 2026-01-07 07:28:26
+# Count: 1
+# Country Code: MY
+
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#ARISTA🔥

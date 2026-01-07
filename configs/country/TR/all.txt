@@ -1,11 +1,13 @@
 # All Configurations for TR
-# Updated: 2026-01-07 10:13:01
-# Total Count: 41
+# Updated: 2026-01-07 14:16:45
+# Total Count: 43
 # Country Code: TR
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOiIzOTY1MSIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
+vmess://eyJhZGQiOiI2Mi42MC4xNDguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1cHR2cy5jb20iLCJpZCI6IjdjZjA5YWMwLTA1NzctNGU4Mi04YWQ4LTBkZjgyOTBiMjU0NSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ2ODAxIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOjM5NjUxLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJuYW1lIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWCJ9
 vmess://eyJhZGQiOiI0NS44OS41Mi4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjM5NjUxLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsIm5hbWUiOiI0SmFkaS0xNTM1NSJ9
+vless://6cb81e33-d011-4500-936b-5d38e90ca3fb@abiidar-free.avamovie1.top:4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
@@ -17,30 +19,30 @@ vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&enc
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=chrome&type=ws#ARISTA🔥
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws?--TELEGRAM-v2ray_configs_pools----TELEGRAM-v2ray_configs_pools&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@45.92.219.41:2095?encryption=none&type=tcp&headerType=http&host=@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>&path=/path#ARISTA🔥
 vless://94daf8b6-07e7-4c1b-9ce4-b45b5474cbd2@tr.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.saturn-cloud.net&sid=2762604ed2e0fa2f#ARISTA🔥
 vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#ARISTA🔥
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=/jzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#ARISTA🔥
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRkJaUUlKQ1pHT2Z3aEhGbE96Szdy@185.39.204.189:34085#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzQ5VXdpQ0ZjdjBINXYwWHdvdmJU@62.133.63.21:65262#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3V0VlWFE3WGwwUENRZ3hCUnhwVlBX@62.133.63.21:65262#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk=@77.83.245.171:443#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdHp5R1p1N0dxb2cwWURxYllMTUF1@62.133.63.21:65262#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWHU3ekVUbURVSlNSajhzZGJSYkJ6@62.133.63.21:65262#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJd1N5Y1RQSDBFT3RlQjR3b1NMdGt4@h110vpntr.outlinekeys.net:65262#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMmRMZVZ0TFpFdjc3YTZKSnl6dFBa@h110vpntr.outlinekeys.net:65262#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdHp5R1p1N0dxb2cwWURxYllMTUF1@62.133.63.21:65262#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJd1N5Y1RQSDBFT3RlQjR3b1NMdGt4@h110vpntr.outlinekeys.net:65262#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWHU3ekVUbURVSlNSajhzZGJSYkJ6@62.133.63.21:65262#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWHU3ekVUbURVSlNSajhzZGJSYkJ6@h110vpntr.outlinekeys.net:65262#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRYRDRwb2p2b3JtVldSaUhnSWZ2@83.217.9.17:25232#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcWlXejlTVWRVeUhBZnk0cXM4Sld1@h110vpntr.outlinekeys.net:65262#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRW9hVzNJV2h1UmtRSmd0SndVQzNv@h110vpntr.outlinekeys.net:65262#ARISTA🔥

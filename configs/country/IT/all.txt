@@ -1,6 +1,6 @@
 # All Configurations for IT
-# Updated: 2026-01-07 10:13:01
-# Total Count: 6
+# Updated: 2026-01-07 14:16:45
+# Total Count: 5
 # Country Code: IT
 
 vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -8,4 +8,3 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#ARISTA🔥

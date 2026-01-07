@@ -1,27 +1,31 @@
 # All Configurations for JP
-# Updated: 2026-01-07 10:13:01
-# Total Count: 22
+# Updated: 2026-01-07 14:16:45
+# Total Count: 26
 # Country Code: JP
 
+vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6ODAsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJuYW1lIjoiPj5AdjJsaW5lOjpKUCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=japan.geodema.network&fp=chrome&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#ARISTA🔥
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=b52815d3a6ac45b4#ARISTA🔥
 vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=japan.geodema.network&fp=chrome&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#ARISTA🔥
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
-vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=japan.geodema.network&fp=chrome&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.106.228.247:990#ARISTA🔥
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.026.node-for-bigairport.win:15099#ARISTA🔥
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0=@139.162.72.96:22060#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#ARISTA🔥
 hysteria2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443?insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?insecure=1&sni=iij.mggl.wang#ARISTA🔥
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?security=tls&insecure=1&sni=iij.mggl.wang#ARISTA🔥
+hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?insecure=1&sni=iij.mggl.wang#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591/?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@rb.kaixincloud.top:25200?sni=rb.kaixincloud.top&mport=25200-26200#ARISTA🔥

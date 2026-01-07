@@ -1,8 +1,9 @@
 # TR - VLESS Configurations
-# Updated: 2026-01-07 10:13:01
-# Count: 16
+# Updated: 2026-01-07 14:16:45
+# Count: 18
 # Country Code: TR
 
+vless://6cb81e33-d011-4500-936b-5d38e90ca3fb@abiidar-free.avamovie1.top:4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
@@ -14,8 +15,9 @@ vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&enc
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
 vless://24dfda32-36c7-485d-b229-a2e20fce0462@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=chrome&type=ws#ARISTA🔥
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws?--TELEGRAM-v2ray_configs_pools----TELEGRAM-v2ray_configs_pools&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://367077c8-ebe4-4777-a32c-13911a5cb755@45.92.219.41:2095?encryption=none&type=tcp&headerType=http&host=@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>@AKLISvpn>>&path=/path#ARISTA🔥
 vless://94daf8b6-07e7-4c1b-9ce4-b45b5474cbd2@tr.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.saturn-cloud.net&sid=2762604ed2e0fa2f#ARISTA🔥
 vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#ARISTA🔥
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=/jzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#ARISTA🔥
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥

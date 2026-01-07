@@ -1,0 +1,6 @@
+# IL - HYSTERIA Configurations
+# Updated: 2026-01-07 14:16:45
+# Count: 1
+# Country Code: IL
+
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443?insecure=1&sni=ylsl.nezhasu.com#ARISTA🔥

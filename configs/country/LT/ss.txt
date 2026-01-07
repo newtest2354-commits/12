@@ -1,0 +1,7 @@
+# LT - SS Configurations
+# Updated: 2026-01-07 14:16:45
+# Count: 2
+# Country Code: LT
+
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#ARISTA🔥

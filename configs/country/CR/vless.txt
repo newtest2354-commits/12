@@ -1,5 +1,5 @@
 # CR - VLESS Configurations
-# Updated: 2026-01-07 10:13:01
+# Updated: 2026-01-07 14:16:45
 # Count: 1
 # Country Code: CR
 

@@ -1,0 +1,7 @@
+# ES - SS Configurations
+# Updated: 2026-01-07 10:13:01
+# Count: 2
+# Country Code: ES
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:443#ARISTA🔥

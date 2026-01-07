@@ -1,7 +1,8 @@
 # IT - SS Configurations
-# Updated: 2026-01-07 07:28:26
-# Count: 2
+# Updated: 2026-01-07 10:13:01
+# Count: 3
 # Country Code: IT
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#ARISTA🔥

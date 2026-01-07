@@ -1,8 +1,7 @@
 # CN - HYSTERIA Configurations
-# Updated: 2026-01-07 07:28:26
-# Count: 3
+# Updated: 2026-01-07 10:13:01
+# Count: 2
 # Country Code: CN
 
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1&sni=xg1.mangshe.xyz#ARISTA🔥
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1&sni=xg1.mangshe.xyz#ARISTA🔥
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056/?insecure=1&sni=xg1.mangshe.xyz#ARISTA🔥

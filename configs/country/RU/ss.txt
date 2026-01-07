@@ -1,6 +1,8 @@
 # RU - SS Configurations
-# Updated: 2026-01-07 07:28:26
-# Count: 1
+# Updated: 2026-01-07 10:13:01
+# Count: 3
 # Country Code: RU
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA@clr.ducks.tel:17844#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcVpidDFRQ3MzbmdFZlhvMXA3VC13@81.200.158.206:1080#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.139.26.173:57456#ARISTA🔥

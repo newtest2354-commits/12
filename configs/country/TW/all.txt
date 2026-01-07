@@ -1,8 +1,7 @@
 # All Configurations for TW
-# Updated: 2026-01-07 07:28:26
-# Total Count: 3
+# Updated: 2026-01-07 10:13:01
+# Total Count: 2
 # Country Code: TW
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjY0ZDY3Yy0zM2YzLTQ3OGYtYTZhNC0xZGM0Mjg0ZWUxOTI@118.170.208.101:10036#ARISTA🔥
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#ARISTA🔥
 hysteria2://84123645-b62d-4a3b-bd74-d58ea4023c65@tw2.jueduibupao.top:30078?insecure=1&sni=tw2.jueduibupao.top#ARISTA🔥
-hy2://84123645-b62d-4a3b-bd74-d58ea4023c65@tw2.jueduibupao.top:30078/?insecure=1&sni=tw2.jueduibupao.top#ARISTA🔥

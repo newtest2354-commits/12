@@ -40,7 +40,6 @@ class ConfigParser:
     def parse_vmess(self, config_str):
         try:
             base64_part = config_str[8:]
-            # استفاده از urlsafe_decode برای پشتیبانی بهتر
             padding_needed = len(base64_part) % 4
             if padding_needed:
                 base64_part += '=' * (4 - padding_needed)
@@ -139,7 +138,6 @@ class ConfigParser:
             base_part = parts[0][5:]
             
             if '@' not in base_part:
-                # استفاده از urlsafe_decode برای پشتیبانی بهتر
                 decoded_bytes = base64.urlsafe_b64decode(base_part + '==')
                 decoded = decoded_bytes.decode('utf-8', errors='ignore')
                 if '@' in decoded:
@@ -170,7 +168,6 @@ class ConfigParser:
             host, port_str = host_port.split(':')
             port = int(port_str)
             
-            # استخراج پارامترهای مهم از query
             query_params = parse_qs(parsed.query)
             sni = query_params.get('sni', [''])[0]
             host_param = query_params.get('host', [''])[0]
@@ -201,7 +198,6 @@ class ConfigParser:
             host, port_str = host_port.split(':')
             port = int(port_str)
             
-            # استخراج پارامترهای مهم از query
             query_params = parse_qs(parsed.query)
             sni = query_params.get('sni', [''])[0]
             host_param = query_params.get('host', [''])[0]
@@ -276,7 +272,7 @@ class ConfigParser:
     def resolve_domain(self, domain):
         try:
             resolver = dns.resolver.Resolver()
-            resolver.timeout = 3  # کاهش timeout برای سرعت بیشتر
+            resolver.timeout = 3
             resolver.lifetime = 3
             
             ipv4_addresses = []
@@ -327,10 +323,11 @@ class GeoIPClassifier:
         self.lock = threading.Lock()
         
         self.cdn_asns = {
-            '13335', '209242', '16509', '15169', '8075', 
+            '13335', '209242', '16509', '15169', '8075',
             '54113', '19527', '14618', '40065', '14061',
             '63949', '8987', '55080', '268843', '394699',
-            '395747', '136764', '18717', '22822', '46489'
+            '395747', '136764', '18717', '22822', '46489',
+            '60626', '32590', '33651', '60068'
         }
         
         self.datacenter_asns = {
@@ -445,7 +442,7 @@ class GeoIPClassifier:
         
         org_lower = org.lower() if org else ''
         
-        cdn_keywords = ['cloudflare', 'akamai', 'fastly', 'cloudfront', 
+        cdn_keywords = ['cloudflare', 'akamai', 'fastly', 'cloudfront',
                        'google edge', 'azure edge', 'aws cloudfront']
         
         datacenter_keywords = ['hetzner', 'ovh', 'digitalocean', 'vultr',
@@ -487,13 +484,11 @@ class GeoIPClassifier:
         return {'country': 'UNKNOWN', 'asn': '', 'org': ''}
     
     def analyze_ip(self, ip):
-        # اولویت با ip-api به دلیل به‌روزرسانی بهتر
         ipapi_result = self.get_country_by_ipapi(ip)
         country = ipapi_result['country']
         asn_str = ipapi_result['asn']
         org = ipapi_result['org']
         
-        # استفاده از MaxMind به عنوان fallback
         if self.country_db and (not country or country == 'UNKNOWN'):
             country_from_db = self.get_country_from_db(ip)
             if country_from_db:
@@ -543,7 +538,6 @@ class CountryClassifier:
             'by_protocol': {},
             'by_ip_type': {}
         }
-        # برای ذخیره اطلاعات کامل هر کانفیگ
         self.full_info = {}
     
     def process_single_config(self, config_str):
@@ -566,17 +560,20 @@ class CountryClassifier:
                     best_ip_type = 'UNKNOWN'
                     country = 'UNKNOWN'
                     
-                    for ip in resolved_ips[:3]:  # بررسی حداکثر 3 IP
+                    for ip in resolved_ips[:3]:
                         ip_info = self.geoip.analyze_ip(ip)
+                        
+                        if ip_info['ip_type'] == 'CDN':
+                            continue
                         
                         if ip_info['ip_type'] == 'FIXED_IP':
                             best_ip = ip
                             best_ip_type = 'FIXED_IP'
                             country = ip_info['country']
                             break
-                        elif ip_info['ip_type'] == 'CDN' and not best_ip:
+                        elif not best_ip:
                             best_ip = ip
-                            best_ip_type = 'CDN'
+                            best_ip_type = ip_info['ip_type']
                             country = ip_info['country']
                     
                     if best_ip:
@@ -587,7 +584,7 @@ class CountryClassifier:
                             'country': country,
                             'is_ip': True,
                             'target_host': target_host,
-                            'ip_type': best_ip_type,  # ذخیره ip_type
+                            'ip_type': best_ip_type,
                             'resolved_from_domain': True
                         }
                 
@@ -598,11 +595,23 @@ class CountryClassifier:
                     'country': 'DOMAIN',
                     'is_ip': False,
                     'target_host': target_host,
-                    'ip_type': 'DOMAIN',  # ذخیره ip_type
+                    'ip_type': 'DOMAIN',
                     'resolved_from_domain': False
                 }
             
             ip_info = self.geoip.analyze_ip(target_host)
+            
+            if ip_info['ip_type'] == 'CDN':
+                return {
+                    'config': config_str,
+                    'parsed': parsed,
+                    'ip': target_host,
+                    'country': 'CDN',
+                    'is_ip': True,
+                    'target_host': target_host,
+                    'ip_type': 'CDN',
+                    'resolved_from_domain': False
+                }
             
             return {
                 'config': config_str,
@@ -611,7 +620,7 @@ class CountryClassifier:
                 'country': ip_info['country'],
                 'is_ip': True,
                 'target_host': target_host,
-                'ip_type': ip_info['ip_type'],  # ذخیره ip_type
+                'ip_type': ip_info['ip_type'],
                 'resolved_from_domain': False
             }
         except Exception as e:
@@ -659,7 +668,6 @@ class CountryClassifier:
                 if result:
                     config_str = future_to_config[future]
                     with self.results_lock:
-                        # ذخیره اطلاعات کامل برای استفاده بعدی
                         self.full_info[config_str] = result
                         
                         if result['is_ip']:
@@ -668,6 +676,7 @@ class CountryClassifier:
                             ip_type = result['ip_type']
                             if ip_type == 'CDN':
                                 self.stats['cdn_ip'] += 1
+                                continue
                             elif ip_type == 'FIXED_IP':
                                 self.stats['fixed_ip'] += 1
                             else:
@@ -680,6 +689,9 @@ class CountryClassifier:
                         
                         country = result['country']
                         protocol = result['parsed']['protocol']
+                        
+                        if country == 'CDN':
+                            continue
                         
                         if country not in self.results:
                             self.results[country] = {}
@@ -697,7 +709,7 @@ class CountryClassifier:
         return {
             'results': self.results,
             'stats': self.stats,
-            'full_info': self.full_info  # اضافه کردن اطلاعات کامل
+            'full_info': self.full_info
         }
     
     def save_results(self, results, output_dir='configs/country'):
@@ -705,9 +717,27 @@ class CountryClassifier:
         
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
-        # ذخیره بر اساس کشور و پروتکل
+        cdn_configs = []
+        for config_str, config_info in results['full_info'].items():
+            if config_info.get('ip_type') == 'CDN' or config_info.get('country') == 'CDN':
+                cdn_configs.append(config_str)
+        
+        if cdn_configs:
+            cdn_dir = os.path.join(output_dir, 'CDN')
+            os.makedirs(cdn_dir, exist_ok=True)
+            
+            cdn_file = os.path.join(cdn_dir, "all.txt")
+            content = f"# CDN Configurations (Anycast - No Specific Country)\n"
+            content += f"# Updated: {timestamp}\n"
+            content += f"# Total Count: {len(cdn_configs)}\n"
+            content += "# Note: These are Cloudflare, Akamai, Fastly, etc. Anycast IPs\n\n"
+            content += "\n".join(cdn_configs)
+            
+            with open(cdn_file, 'w', encoding='utf-8') as f:
+                f.write(content)
+        
         for country, protocols in results['results'].items():
-            if country == 'DOMAIN':
+            if country == 'DOMAIN' or country == 'CDN':
                 continue
                 
             country_dir = os.path.join(output_dir, country)
@@ -740,7 +770,6 @@ class CountryClassifier:
                 with open(all_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
-        # ذخیره کانفیگ‌های مبتنی بر دامنه
         if 'DOMAIN' in results['results']:
             domain_dir = os.path.join(output_dir, 'DOMAIN')
             os.makedirs(domain_dir, exist_ok=True)
@@ -760,19 +789,16 @@ class CountryClassifier:
                 with open(domain_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
-        # ساختار جدید: ذخیره بر اساس IP Type
         ip_type_dir = os.path.join(output_dir, 'by_iptype')
         os.makedirs(ip_type_dir, exist_ok=True)
         
         ip_type_summary = {}
-        # جمع‌آوری آمار دقیق IP Type
         for config_str, config_info in results['full_info'].items():
             ip_type = config_info.get('ip_type', 'UNKNOWN')
             if ip_type not in ip_type_summary:
                 ip_type_summary[ip_type] = []
             ip_type_summary[ip_type].append(config_str)
         
-        # ذخیره کانفیگ‌ها بر اساس IP Type
         for ip_type, configs in ip_type_summary.items():
             if configs:
                 ip_type_file = os.path.join(ip_type_dir, f"{ip_type}.txt")
@@ -785,7 +811,6 @@ class CountryClassifier:
                 with open(ip_type_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
-        # ذخیره خلاصه جامع
         summary_file = os.path.join(output_dir, "summary.txt")
         with open(summary_file, 'w', encoding='utf-8') as f:
             f.write(f"# Country Classification Summary\n")
@@ -793,11 +818,11 @@ class CountryClassifier:
             f.write(f"Total configs processed: {results['stats']['total']}\n")
             f.write(f"IP-based configs: {results['stats']['ip_based']}\n")
             f.write(f"  - Fixed IP (Datacenter): {results['stats']['fixed_ip']}\n")
-            f.write(f"  - CDN IP: {results['stats']['cdn_ip']}\n")
+            f.write(f"  - CDN IP (Excluded): {results['stats']['cdn_ip']}\n")
             f.write(f"  - Unknown IP: {results['stats']['unknown_ip']}\n")
             f.write(f"Domain-based configs: {results['stats']['domain_based']}\n\n")
             
-            f.write("IP-Based Configs by Country:\n")
+            f.write("IP-Based Configs by Country (CDN Excluded):\n")
             ip_countries = {k: v for k, v in results['stats']['by_country'].items() if k != 'DOMAIN'}
             for country, count in sorted(ip_countries.items(), key=lambda x: x[1], reverse=True):
                 f.write(f"  {country}: {count}\n")
@@ -810,15 +835,12 @@ class CountryClassifier:
             for ip_type, count in sorted(results['stats']['by_ip_type'].items(), key=lambda x: x[1], reverse=True):
                 f.write(f"  {ip_type}: {count}\n")
             
-            # اضافه کردن آمار دقیق IP Type از ip_type_summary
             f.write("\nDetailed IP Type Summary:\n")
             for ip_type, configs in sorted(ip_type_summary.items(), key=lambda x: len(x[1]), reverse=True):
                 f.write(f"  {ip_type}: {len(configs)} configs\n")
         
-        # ذخیره آمار به صورت JSON
         stats_file = os.path.join(output_dir, "stats.json")
         with open(stats_file, 'w', encoding='utf-8') as f:
-            # اضافه کردن ip_type_summary به stats
             full_stats = results['stats'].copy()
             full_stats['detailed_ip_type'] = {k: len(v) for k, v in ip_type_summary.items()}
             json.dump(full_stats, f, indent=2)
@@ -885,11 +907,11 @@ def main():
         print(f"Total configs: {results['stats']['total']}")
         print(f"IP-based configs: {results['stats']['ip_based']}")
         print(f"  - Fixed IP (Datacenter): {results['stats']['fixed_ip']}")
-        print(f"  - CDN IP: {results['stats']['cdn_ip']}")
+        print(f"  - CDN IP (Excluded): {results['stats']['cdn_ip']}")
         print(f"  - Unknown IP: {results['stats']['unknown_ip']}")
         print(f"Domain-based configs: {results['stats']['domain_based']}")
         
-        print(f"\n📊 IP-Based Configs by Country:")
+        print(f"\n📊 IP-Based Configs by Country (CDN Excluded):")
         ip_countries = {k: v for k, v in results['stats']['by_country'].items() if k != 'DOMAIN'}
         top_countries = sorted(ip_countries.items(), key=lambda x: x[1], reverse=True)[:15]
         

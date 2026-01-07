@@ -1,7 +1,0 @@
-# CH - VLESS Configurations
-# Updated: 2026-01-06 22:04:44
-# Count: 2
-# Country Code: CH
-
-vless://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

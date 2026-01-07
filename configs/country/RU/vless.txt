@@ -1,6 +1,0 @@
-# RU - VLESS Configurations
-# Updated: 2026-01-06 22:04:44
-# Count: 1
-# Country Code: RU
-
-vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥

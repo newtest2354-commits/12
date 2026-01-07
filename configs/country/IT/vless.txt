@@ -1,7 +1,0 @@
-# IT - VLESS Configurations
-# Updated: 2026-01-06 22:04:44
-# Count: 2
-# Country Code: IT
-
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

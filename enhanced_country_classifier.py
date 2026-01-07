@@ -40,9 +40,11 @@ class ConfigParser:
     def parse_vmess(self, config_str):
         try:
             base64_part = config_str[8:]
-            if len(base64_part) % 4 != 0:
-                base64_part += '=' * (4 - len(base64_part) % 4)
-            config_data = json.loads(base64.b64decode(base64_part).decode('utf-8'))
+            # استفاده از urlsafe_decode برای پشتیبانی بهتر
+            padding_needed = len(base64_part) % 4
+            if padding_needed:
+                base64_part += '=' * (4 - padding_needed)
+            config_data = json.loads(base64.urlsafe_b64decode(base64_part.encode()).decode('utf-8', errors='ignore'))
             
             address = config_data.get('add', '')
             host = config_data.get('host', '')
@@ -63,7 +65,8 @@ class ConfigParser:
                 'sni': sni,
                 'ps': config_data.get('ps', '')
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse vmess config: {e}")
             return None
     
     def parse_vless(self, config_str):
@@ -97,7 +100,8 @@ class ConfigParser:
                 'sni': sni,
                 'host_param': host_param
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse vless config: {e}")
             return None
     
     def parse_trojan(self, config_str):
@@ -125,7 +129,8 @@ class ConfigParser:
                 'raw': config_str,
                 'sni': sni
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse trojan config: {e}")
             return None
     
     def parse_ss(self, config_str):
@@ -134,9 +139,9 @@ class ConfigParser:
             base_part = parts[0][5:]
             
             if '@' not in base_part:
-                if len(base_part) % 4 != 0:
-                    base_part += '=' * (4 - len(base_part) % 4)
-                decoded = base64.b64decode(base_part).decode('utf-8')
+                # استفاده از urlsafe_decode برای پشتیبانی بهتر
+                decoded_bytes = base64.urlsafe_b64decode(base_part + '==')
+                decoded = decoded_bytes.decode('utf-8', errors='ignore')
                 if '@' in decoded:
                     method_pass, server_part = decoded.split('@', 1)
                 else:
@@ -154,7 +159,8 @@ class ConfigParser:
                 'target_host': server,
                 'raw': config_str
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse ss config: {e}")
             return None
     
     def parse_hysteria(self, config_str):
@@ -164,14 +170,28 @@ class ConfigParser:
             host, port_str = host_port.split(':')
             port = int(port_str)
             
+            # استخراج پارامترهای مهم از query
+            query_params = parse_qs(parsed.query)
+            sni = query_params.get('sni', [''])[0]
+            host_param = query_params.get('host', [''])[0]
+            
+            target_host = host
+            if sni and self.is_domain(sni):
+                target_host = sni
+            elif host_param and self.is_domain(host_param):
+                target_host = host_param
+            
             return {
                 'protocol': 'hysteria',
                 'host': host,
                 'port': port,
-                'target_host': host,
-                'raw': config_str
+                'target_host': target_host,
+                'raw': config_str,
+                'sni': sni,
+                'host_param': host_param
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse hysteria config: {e}")
             return None
     
     def parse_tuic(self, config_str):
@@ -181,14 +201,28 @@ class ConfigParser:
             host, port_str = host_port.split(':')
             port = int(port_str)
             
+            # استخراج پارامترهای مهم از query
+            query_params = parse_qs(parsed.query)
+            sni = query_params.get('sni', [''])[0]
+            host_param = query_params.get('host', [''])[0]
+            
+            target_host = host
+            if sni and self.is_domain(sni):
+                target_host = sni
+            elif host_param and self.is_domain(host_param):
+                target_host = host_param
+            
             return {
                 'protocol': 'tuic',
                 'host': host,
                 'port': port,
-                'target_host': host,
-                'raw': config_str
+                'target_host': target_host,
+                'raw': config_str,
+                'sni': sni,
+                'host_param': host_param
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse tuic config: {e}")
             return None
     
     def parse_wireguard(self, config_str):
@@ -209,7 +243,8 @@ class ConfigParser:
                 'target_host': host,
                 'raw': config_str
             }
-        except:
+        except Exception as e:
+            logger.debug(f"Failed to parse wireguard config: {e}")
             return None
     
     def is_ip_address(self, host):
@@ -241,8 +276,8 @@ class ConfigParser:
     def resolve_domain(self, domain):
         try:
             resolver = dns.resolver.Resolver()
-            resolver.timeout = 5
-            resolver.lifetime = 5
+            resolver.timeout = 3  # کاهش timeout برای سرعت بیشتر
+            resolver.lifetime = 3
             
             ipv4_addresses = []
             ipv6_addresses = []
@@ -452,32 +487,36 @@ class GeoIPClassifier:
         return {'country': 'UNKNOWN', 'asn': '', 'org': ''}
     
     def analyze_ip(self, ip):
-        country = None
+        # اولویت با ip-api به دلیل به‌روزرسانی بهتر
+        ipapi_result = self.get_country_by_ipapi(ip)
+        country = ipapi_result['country']
+        asn_str = ipapi_result['asn']
+        org = ipapi_result['org']
+        
+        # استفاده از MaxMind به عنوان fallback
+        if self.country_db and (not country or country == 'UNKNOWN'):
+            country_from_db = self.get_country_from_db(ip)
+            if country_from_db:
+                country = country_from_db
+        
         asn = None
-        org = None
-        ip_type = 'UNKNOWN'
+        if asn_str and asn_str.startswith('AS'):
+            try:
+                asn = int(asn_str[2:])
+            except:
+                asn = None
         
-        if self.country_db:
-            country = self.get_country_from_db(ip)
-        
-        if self.asn_db:
-            asn, org, _ = self.get_asn_info(ip)
-        
-        if not country or not asn:
-            ipapi_result = self.get_country_by_ipapi(ip)
-            if not country:
-                country = ipapi_result['country']
-            if not asn:
-                asn_str = ipapi_result['asn']
-                org = ipapi_result['org']
-                if asn_str and asn_str.startswith('AS'):
-                    try:
-                        asn = int(asn_str[2:])
-                    except:
-                        asn = None
+        if not asn and self.asn_db:
+            asn_from_db, org_from_db, _ = self.get_asn_info(ip)
+            if asn_from_db:
+                asn = asn_from_db
+            if not org and org_from_db:
+                org = org_from_db
         
         if asn:
             ip_type = self.classify_ip_type(ip, asn, org)
+        else:
+            ip_type = 'UNKNOWN'
         
         return {
             'country': country if country else 'UNKNOWN',
@@ -504,6 +543,8 @@ class CountryClassifier:
             'by_protocol': {},
             'by_ip_type': {}
         }
+        # برای ذخیره اطلاعات کامل هر کانفیگ
+        self.full_info = {}
     
     def process_single_config(self, config_str):
         try:
@@ -525,7 +566,7 @@ class CountryClassifier:
                     best_ip_type = 'UNKNOWN'
                     country = 'UNKNOWN'
                     
-                    for ip in resolved_ips[:3]:
+                    for ip in resolved_ips[:3]:  # بررسی حداکثر 3 IP
                         ip_info = self.geoip.analyze_ip(ip)
                         
                         if ip_info['ip_type'] == 'FIXED_IP':
@@ -546,7 +587,7 @@ class CountryClassifier:
                             'country': country,
                             'is_ip': True,
                             'target_host': target_host,
-                            'ip_type': best_ip_type,
+                            'ip_type': best_ip_type,  # ذخیره ip_type
                             'resolved_from_domain': True
                         }
                 
@@ -557,7 +598,7 @@ class CountryClassifier:
                     'country': 'DOMAIN',
                     'is_ip': False,
                     'target_host': target_host,
-                    'ip_type': 'DOMAIN',
+                    'ip_type': 'DOMAIN',  # ذخیره ip_type
                     'resolved_from_domain': False
                 }
             
@@ -570,7 +611,7 @@ class CountryClassifier:
                 'country': ip_info['country'],
                 'is_ip': True,
                 'target_host': target_host,
-                'ip_type': ip_info['ip_type'],
+                'ip_type': ip_info['ip_type'],  # ذخیره ip_type
                 'resolved_from_domain': False
             }
         except Exception as e:
@@ -581,6 +622,7 @@ class CountryClassifier:
         logger.info(f"Processing {len(configs)} configurations...")
         
         self.results = {}
+        self.full_info = {}
         self.stats = {
             'total': len(configs),
             'ip_based': 0,
@@ -615,7 +657,11 @@ class CountryClassifier:
                 
                 result = future.result()
                 if result:
+                    config_str = future_to_config[future]
                     with self.results_lock:
+                        # ذخیره اطلاعات کامل برای استفاده بعدی
+                        self.full_info[config_str] = result
+                        
                         if result['is_ip']:
                             self.stats['ip_based'] += 1
                             
@@ -650,7 +696,8 @@ class CountryClassifier:
         
         return {
             'results': self.results,
-            'stats': self.stats
+            'stats': self.stats,
+            'full_info': self.full_info  # اضافه کردن اطلاعات کامل
         }
     
     def save_results(self, results, output_dir='configs/country'):
@@ -658,6 +705,7 @@ class CountryClassifier:
         
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
+        # ذخیره بر اساس کشور و پروتکل
         for country, protocols in results['results'].items():
             if country == 'DOMAIN':
                 continue
@@ -692,6 +740,7 @@ class CountryClassifier:
                 with open(all_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
+        # ذخیره کانفیگ‌های مبتنی بر دامنه
         if 'DOMAIN' in results['results']:
             domain_dir = os.path.join(output_dir, 'DOMAIN')
             os.makedirs(domain_dir, exist_ok=True)
@@ -711,18 +760,32 @@ class CountryClassifier:
                 with open(domain_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
+        # ساختار جدید: ذخیره بر اساس IP Type
         ip_type_dir = os.path.join(output_dir, 'by_iptype')
         os.makedirs(ip_type_dir, exist_ok=True)
         
         ip_type_summary = {}
-        for country, protocols in results['results'].items():
-            if country == 'DOMAIN':
-                continue
-            for protocol, configs in protocols.items():
-                for config in configs:
-                    for config_info in [c for c in []]:
-                        pass
+        # جمع‌آوری آمار دقیق IP Type
+        for config_str, config_info in results['full_info'].items():
+            ip_type = config_info.get('ip_type', 'UNKNOWN')
+            if ip_type not in ip_type_summary:
+                ip_type_summary[ip_type] = []
+            ip_type_summary[ip_type].append(config_str)
         
+        # ذخیره کانفیگ‌ها بر اساس IP Type
+        for ip_type, configs in ip_type_summary.items():
+            if configs:
+                ip_type_file = os.path.join(ip_type_dir, f"{ip_type}.txt")
+                content = f"# {ip_type} Configurations\n"
+                content += f"# Updated: {timestamp}\n"
+                content += f"# Count: {len(configs)}\n"
+                content += f"# IP Type: {ip_type}\n\n"
+                content += "\n".join(configs)
+                
+                with open(ip_type_file, 'w', encoding='utf-8') as f:
+                    f.write(content)
+        
+        # ذخیره خلاصه جامع
         summary_file = os.path.join(output_dir, "summary.txt")
         with open(summary_file, 'w', encoding='utf-8') as f:
             f.write(f"# Country Classification Summary\n")
@@ -746,10 +809,19 @@ class CountryClassifier:
             f.write("\nBy IP Type:\n")
             for ip_type, count in sorted(results['stats']['by_ip_type'].items(), key=lambda x: x[1], reverse=True):
                 f.write(f"  {ip_type}: {count}\n")
+            
+            # اضافه کردن آمار دقیق IP Type از ip_type_summary
+            f.write("\nDetailed IP Type Summary:\n")
+            for ip_type, configs in sorted(ip_type_summary.items(), key=lambda x: len(x[1]), reverse=True):
+                f.write(f"  {ip_type}: {len(configs)} configs\n")
         
+        # ذخیره آمار به صورت JSON
         stats_file = os.path.join(output_dir, "stats.json")
         with open(stats_file, 'w', encoding='utf-8') as f:
-            json.dump(results['stats'], f, indent=2)
+            # اضافه کردن ip_type_summary به stats
+            full_stats = results['stats'].copy()
+            full_stats['detailed_ip_type'] = {k: len(v) for k, v in ip_type_summary.items()}
+            json.dump(full_stats, f, indent=2)
         
         logger.info(f"Results saved to {output_dir}")
 

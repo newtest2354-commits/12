@@ -1,5 +1,5 @@
 # All Configurations for MT
-# Updated: 2026-01-08 14:08:10
+# Updated: 2026-01-08 16:03:40
 # Total Count: 2
 # Country Code: MT
 

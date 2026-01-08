@@ -1,6 +1,6 @@
 # TR - VLESS Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 17
+# Updated: 2026-01-08 07:15:04
+# Count: 12
 # Country Code: TR
 
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
@@ -15,8 +15,3 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encrypt
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#ARISTA🔥
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#ARISTA🔥
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
-vless://94daf8b6-07e7-4c1b-9ce4-b45b5474cbd2@tr.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.saturn-cloud.net&sid=2762604ed2e0fa2f#ARISTA🔥

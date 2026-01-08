@@ -1,0 +1,6 @@
+# All Configurations for BG
+# Updated: 2026-01-08 07:15:04
+# Total Count: 1
+# Country Code: BG
+
+vless://nasnet@nasnet-146198073-direct.iranpress.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nasnet-146198073-direct.iranpress.co#ARISTA🔥

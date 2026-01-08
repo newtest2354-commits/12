@@ -1,18 +1,17 @@
 # JP - HYSTERIA Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 13
+# Updated: 2026-01-08 07:15:04
+# Count: 12
 # Country Code: JP
 
-hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
-hysteria2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#ARISTA🔥
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@181.215.18.71:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#ARISTA🔥
 hysteria2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443?insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?security=tls&insecure=1&sni=iij.mggl.wang#ARISTA🔥
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?insecure=1&sni=iij.mggl.wang#ARISTA🔥
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#ARISTA🔥
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591/?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#ARISTA🔥
 hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@rb.kaixincloud.top:25200?sni=rb.kaixincloud.top&mport=25200-26200#ARISTA🔥
-hysteria2://47db373b-d23c-4acb-bfd9-dace39c4f1e4@rb.kaixincloud.top:25200?sni=rb.kaixincloud.top&mport=25200-26200#ARISTA🔥

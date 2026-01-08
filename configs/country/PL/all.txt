@@ -1,25 +1,18 @@
 # All Configurations for PL
-# Updated: 2026-01-08 04:08:01
-# Total Count: 125
+# Updated: 2026-01-08 07:15:04
+# Total Count: 117
 # Country Code: PL
 
 vmess://eyJhZGQiOiI0NS4xNTQuMTU2LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiYzhlMTIzNS02Y2VmLTRiZGQtZjNmMi0wYjRmM2M4YTdiNzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyNjQ4IiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
+vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl.nnvpn.io&sid=f3a8ef9e63946aaa#ARISTA🔥
 vless://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol.overload.ovh&fp=chrome&security=reality&pbk=NUdsKU2YwT4H__ap8TqR4IjAxtVVQ5lcha7nY28wpC0&sid=b92f4cd882f76e2b#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.144.51.14:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aneta.kosmolet.xyz&fp=chrome&security=reality&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#ARISTA🔥
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443?type=tcp&encryption=none&security=tls&sni=plcdn23.suio.me#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://4d7a559b-6379-41a7-9e51-41ef759846aa@144.31.3.104:11011?mode=gun&security=reality&encryption=none&pbk=rI9VYuHyu0t0bKzVyNekh_DYgeV4nBI2AFVb910DY2g&fp=chrome&spx=%2F&type=grpc&serviceName=%2F&sni=pl1.nfnpx.online&sid=560dced8d059f42b#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@178.154.202.184:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn17.suio.me&allowInsecure=1#ARISTA🔥
-vless://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@185.223.57.75:443/?type=tcp&encryption=none&flow=&sni=pl1vless.krasivovpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
-vless://9bd8537b-32cf-4a98-bc1a-d1d5a64e1164@digitalocean.com:8880?path=@Rayan_Config&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-3.rAyAn-3.cLoUdNs.pRo&type=ws#ARISTA🔥
-vless://f594396e-0381-474e-b9d7-5c7fb98c6220@145.239.29.93:48215?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
 trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.70:9059#ARISTA🔥
@@ -120,11 +113,10 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.18:9000#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCY3FBSDk4VFp2QW9jR01Za1F6eWMx@77.83.246.74:443#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs@77.83.246.74:443#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMmZONVpod0tya2dZMDJneVpVeVR0@92.62.251.201:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#ARISTA🔥

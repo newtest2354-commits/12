@@ -1,9 +1,6 @@
 # CH - SS Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 4
+# Updated: 2026-01-08 07:15:04
+# Count: 1
 # Country Code: CH
 
 ss://YWVzLTEyOC1nY206dnlabFctb0Zfa1RpcE1CNnVBaUt6QQ@195.15.241.91:443#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT21WWkJGazc5NGtmYkJrTVFmQnZh@45.95.232.236:4248#ARISTA🔥
-ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#ARISTA🔥

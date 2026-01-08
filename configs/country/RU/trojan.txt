@@ -1,21 +1,17 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 16
+# Updated: 2026-01-08 07:15:04
+# Count: 12
 # Country Code: RU
 
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
-trojan://25IYE1_dhFCBi6omM3qf9@144.202.8.250:23239?security=tls&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
-trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@209.222.17.236:25134?security=tls&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
-trojan://5dcqVXE%3DHhI.O%2BBMwAQJv@45.76.28.186:19557?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
-trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
+trojan://25IYE1_dhFCBi6omM3qf9@144.202.8.250:23239?security=tls&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
+trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@209.222.17.236:25134?security=tls&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
+trojan://5dcqVXE%3DHhI.O%2BBMwAQJv@45.76.28.186:19557?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 trojan://l9lTBt.P8x2LOHCsnhNRq@45.76.62.85:14090?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
-trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&type=tcp&sni=ya.ru#ARISTA🔥
-trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#ARISTA🔥
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@45.63.40.126:13345/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#ARISTA🔥
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#ARISTA🔥
+trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥

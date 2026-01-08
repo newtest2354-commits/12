@@ -1,6 +1,0 @@
-# CN - TROJAN Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 1
-# Country Code: CN
-
-trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#ARISTA🔥

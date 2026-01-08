@@ -1,6 +1,0 @@
-# AL - VLESS Configurations
-# Updated: 2026-01-08 04:08:01
-# Count: 1
-# Country Code: AL
-
-vless://f2309653-bfe7-43ff-83fc-784b06210bfa@78.159.131.23:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=9f6a51680da312f6#ARISTA🔥

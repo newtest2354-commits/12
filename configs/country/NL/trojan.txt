@@ -1,8 +1,9 @@
 # NL - TROJAN Configurations
-# Updated: 2026-01-08 10:06:46
-# Count: 3
+# Updated: 2026-01-08 14:08:10
+# Count: 4
 # Country Code: NL
 
+trojan://zL7CpPYxhvFtYqm2yAbHrw@64.225.81.161:7393?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&amp;headerType=none&amp;type=tcp#ARISTA🔥
 trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.81.161:7393?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#ARISTA🔥

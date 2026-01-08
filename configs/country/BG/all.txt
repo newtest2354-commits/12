@@ -1,5 +1,5 @@
 # All Configurations for BG
-# Updated: 2026-01-08 10:06:46
+# Updated: 2026-01-08 14:08:10
 # Total Count: 1
 # Country Code: BG
 

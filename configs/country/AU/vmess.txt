@@ -1,6 +1,0 @@
-# AU - VMESS Configurations
-# Updated: 2026-01-08 16:03:40
-# Count: 1
-# Country Code: AU
-
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6InZkZTIuMGJhZC5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidmRlMi4wYmFkLmNvbSIsInBhdGgiOiIvY2hhdCIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIifQ==

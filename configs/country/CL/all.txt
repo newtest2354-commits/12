@@ -1,7 +1,6 @@
 # All Configurations for CL
-# Updated: 2026-01-08 16:03:40
-# Total Count: 2
+# Updated: 2026-01-08 19:12:24
+# Total Count: 1
 # Country Code: CL
 
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#ARISTA🔥
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?security=tls&insecure=1&mport=50000-65535&sni=glby1.nezhasu.com#ARISTA🔥

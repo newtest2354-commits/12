@@ -1,6 +1,0 @@
-# CL - HYSTERIA Configurations
-# Updated: 2026-01-08 16:03:40
-# Count: 1
-# Country Code: CL
-
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?security=tls&insecure=1&mport=50000-65535&sni=glby1.nezhasu.com#ARISTA🔥

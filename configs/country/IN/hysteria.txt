@@ -1,14 +1,6 @@
 # IN - HYSTERIA Configurations
-# Updated: 2026-01-08 16:03:40
-# Count: 9
+# Updated: 2026-01-08 19:12:24
+# Count: 1
 # Country Code: IN
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?insecure=1&sni=mumbai-3.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?insecure=1&sni=mumbai-2.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?insecure=1&sni=mumbai-1.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?insecure=1&sni=mumbai-4.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-1.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-3.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-2.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-4.nezhasu.com#ARISTA🔥

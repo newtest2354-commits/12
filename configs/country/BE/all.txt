@@ -1,6 +1,7 @@
 # All Configurations for BE
-# Updated: 2026-01-08 16:03:40
-# Total Count: 1
+# Updated: 2026-01-08 19:12:24
+# Total Count: 2
 # Country Code: BE
 
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#ARISTA🔥

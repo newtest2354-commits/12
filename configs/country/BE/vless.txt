@@ -1,0 +1,6 @@
+# BE - VLESS Configurations
+# Updated: 2026-01-08 19:12:24
+# Count: 1
+# Country Code: BE
+
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

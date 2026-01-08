@@ -1,0 +1,6 @@
+# BR - HYSTERIA Configurations
+# Updated: 2026-01-08 04:08:01
+# Count: 1
+# Country Code: BR
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?security=tls&insecure=1&mport=50000-65535&sni=gysbl-2.nezhasu.com#ARISTA🔥

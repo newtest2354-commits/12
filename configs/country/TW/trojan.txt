@@ -1,7 +1,7 @@
 # TW - TROJAN Configurations
-# Updated: 2026-01-07 21:55:25
+# Updated: 2026-01-08 04:08:01
 # Count: 2
 # Country Code: TW
 
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#ARISTA🔥
+trojan://3c9e4a24-aa0f-4571-970b-d374ccded73b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#ARISTA🔥

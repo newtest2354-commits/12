@@ -1,11 +1,12 @@
 # LT - VLESS Configurations
-# Updated: 2026-01-07 21:55:25
-# Count: 6
+# Updated: 2026-01-08 04:08:01
+# Count: 7
 # Country Code: LT
 
+vless://ce5c2b77-919b-438f-b10c-a55dd9990f49@lpersianvpnl.salehpersian.com:443?type=ws&encryption=none&path=%2FTelgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix%3Fed%3D2560&host=ByAmirFBI--lpersianvpnl.salehpersian.com&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=lpersianvpnl.salehpersian.com&ech=AHD%2BDQBsAAAgACB7IbBTxAUH68qw0TI43jo9NSTR3KgzqWWxeDKzraAILwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAB1scGVyc2lhbnZwbmwuc2FsZWhwZXJzaWFuLmNvbQAA#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#ARISTA🔥

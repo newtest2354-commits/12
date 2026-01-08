@@ -1,81 +1,83 @@
 # Country Classification Summary
-# Updated: 2026-01-07 21:55:25
+# Updated: 2026-01-08 04:08:01
 
-Total configs processed: 8362
-IP-based configs: 6829
+Total configs processed: 8335
+IP-based configs: 6813
   - Fixed IP (Datacenter): 0
   - CDN IP (Excluded): 0
-  - Unknown IP: 6829
-Domain-based configs: 1418
+  - Unknown IP: 6813
+Domain-based configs: 1407
 
 IP-Based Configs by Country (CDN Excluded):
-  CA: 1560
-  US: 1438
-  RU: 1164
-  UNKNOWN: 581
-  DE: 363
-  NL: 272
-  IR: 269
-  FR: 156
-  HK: 152
-  PL: 146
-  GB: 120
-  FI: 82
-  JP: 41
-  SG: 37
-  TR: 33
-  SE: 32
-  AE: 27
-  IN: 25
-  BR: 20
-  VN: 20
-  MX: 15
-  AU: 14
-  KZ: 13
-  HU: 12
-  GR: 12
-  CN: 11
-  CH: 11
-  EE: 10
-  UA: 10
+  CA: 1564
+  US: 1528
+  RU: 1154
+  DE: 387
+  NL: 333
+  IR: 316
+  UNKNOWN: 264
+  FR: 170
+  HK: 151
+  GB: 135
+  PL: 125
+  FI: 90
+  JP: 42
+  VN: 42
+  SG: 39
+  TR: 39
+  SE: 35
+  AE: 28
+  IN: 26
+  BR: 21
+  AU: 18
+  MX: 16
+  KZ: 15
+  CN: 13
+  CH: 13
+  IT: 11
+  KR: 11
+  UA: 11
+  SA: 11
   IL: 10
   LT: 9
-  IT: 8
-  KR: 8
-  MK: 8
-  MY: 7
+  EE: 9
+  MY: 8
+  HU: 8
+  PK: 8
   RO: 7
+  LV: 7
   JO: 7
+  GR: 7
+  TH: 6
   AM: 6
-  LV: 6
-  SA: 6
-  TW: 6
-  TH: 5
+  MK: 6
+  KW: 6
+  EG: 6
   SK: 5
+  CZ: 5
+  AR: 5
+  ZA: 5
   MD: 5
   ID: 5
-  EG: 5
-  SI: 4
-  KW: 4
-  PK: 4
-  ZA: 4
-  VG: 3
+  TW: 4
+  ES: 4
+  AT: 3
+  IS: 3
   LU: 3
+  DK: 3
+  NO: 3
   RS: 3
-  ES: 3
-  AR: 3
+  IE: 3
+  SI: 3
+  KH: 3
   CY: 3
-  PT: 3
   AZ: 2
-  CZ: 2
-  IE: 2
+  VG: 2
   CL: 2
-  AT: 2
-  DK: 2
-  PR: 2
-  CO: 2
+  PA: 2
   MT: 2
-  IS: 1
+  PT: 2
+  PR: 2
   AL: 1
   VE: 1
   GT: 1
@@ -84,24 +86,23 @@ IP-Based Configs by Country (CDN Excluded):
   NG: 1
   PE: 1
   HR: 1
-  NO: 1
   MA: 1
   EC: 1
-  BE: 1
-  KH: 1
   BH: 1
+  BE: 1
+  CO: 1
 
 By Protocol:
-  vless: 5193
-  hysteria: 1487
-  ss: 754
-  vmess: 612
-  trojan: 201
+  vless: 5147
+  hysteria: 1465
+  ss: 815
+  vmess: 601
+  trojan: 192
 
 By IP Type:
-  UNKNOWN: 6829
-  DOMAIN: 1418
+  UNKNOWN: 6813
+  DOMAIN: 1407
 
 Detailed IP Type Summary:
-  UNKNOWN: 6829 configs
-  DOMAIN: 1418 configs
+  UNKNOWN: 6813 configs
+  DOMAIN: 1407 configs

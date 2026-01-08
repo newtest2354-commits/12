@@ -1,0 +1,7 @@
+# UNKNOWN - TROJAN Configurations
+# Updated: 2026-01-08 04:08:01
+# Count: 2
+# Country Code: UNKNOWN
+
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#ARISTA🔥
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥

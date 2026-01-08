@@ -1,7 +1,6 @@
 # AM - VLESS Configurations
-# Updated: 2026-01-07 21:55:25
-# Count: 2
+# Updated: 2026-01-08 04:08:01
+# Count: 1
 # Country Code: AM
 
 vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?path=/?ed=#ARISTA🔥

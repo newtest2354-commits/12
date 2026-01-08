@@ -1,6 +1,6 @@
 # All Configurations for KR
-# Updated: 2026-01-08 07:15:04
-# Total Count: 11
+# Updated: 2026-01-08 10:06:46
+# Total Count: 12
 # Country Code: KR
 
 vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6InNlb3VsMDMuemdqb2suY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -12,5 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#AR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46578#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODkyYjJjY2NjYzAxMmY2@154.90.62.145:16672#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGYxMWUyYmE2MzE4MWVh@156.244.20.53:11201#ARISTA🔥
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056?insecure=1&sni=cc1.mangshe.xyz#ARISTA🔥
 hysteria2://72aaf68b-fca5-48fa-9ba3-b0a6fb9990d2@jskr.mmaccc.top:31059?sni=jskr.mmaccc.top&insecure=1#ARISTA🔥

@@ -1,5 +1,5 @@
 # SE - VLESS Configurations
-# Updated: 2026-01-08 07:15:04
+# Updated: 2026-01-08 10:06:46
 # Count: 8
 # Country Code: SE
 
@@ -9,5 +9,5 @@ vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.200.180:443?type=grpc&encrypt
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.200.48:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.203.253:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.201.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.158:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@51.250.104.227:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
+vless://88cb53a3-cd23-4c45-b5b0-53a601c4264c@62.60.159.0:18750?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://ee99096b-0f43-484a-bfd1-f7ecd75e809e@141.227.160.163:25537?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥

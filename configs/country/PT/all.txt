@@ -1,5 +1,5 @@
 # All Configurations for PT
-# Updated: 2026-01-08 07:15:04
+# Updated: 2026-01-08 10:06:46
 # Total Count: 2
 # Country Code: PT
 

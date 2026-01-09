@@ -1,18 +1,13 @@
 # All Configurations for GR
-# Updated: 2026-01-09 04:09:50
-# Total Count: 17
+# Updated: 2026-01-09 07:15:16
+# Total Count: 12
 # Country Code: GR
 
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.27.216:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@84.201.163.192:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.158:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.25.129:7443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=qq&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.35:8090?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.158:7443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=qq&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@178.154.202.184:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@178.154.202.184:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@51.250.104.227:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=chat.speedload.ru#ARISTA🔥
+vless://dd618f98-8af3-413b-b4d7-f77afa40365d@95.163.248.53:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=chat.speedload.ru#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11202#ARISTA🔥

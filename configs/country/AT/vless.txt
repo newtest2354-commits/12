@@ -1,6 +1,0 @@
-# AT - VLESS Configurations
-# Updated: 2026-01-09 10:07:14
-# Count: 1
-# Country Code: AT
-
-vless://22fb2ed4-1aed-4bd1-846e-bbc00f942b3c@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥

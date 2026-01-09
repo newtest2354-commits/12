@@ -1,12 +1,11 @@
 # UNKNOWN - HYSTERIA Configurations
-# Updated: 2026-01-09 10:07:14
-# Count: 7
+# Updated: 2026-01-09 14:07:21
+# Count: 6
 # Country Code: UNKNOWN
 
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
-hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
+hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#ARISTA🔥
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
+hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-fr.mxtn.net:21826?sni=fq-fr.mxtn.net#ARISTA🔥

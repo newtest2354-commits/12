@@ -1,6 +1,6 @@
 # TR - VLESS Configurations
-# Updated: 2026-01-09 07:15:16
-# Count: 13
+# Updated: 2026-01-09 10:07:14
+# Count: 14
 # Country Code: TR
 
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none#ARISTA🔥
@@ -15,4 +15,5 @@ vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reali
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#ARISTA🔥
+vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#ARISTA🔥
 vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#ARISTA🔥

@@ -1,6 +1,7 @@
 # AM - VLESS Configurations
-# Updated: 2026-01-09 07:15:16
-# Count: 1
+# Updated: 2026-01-09 10:07:14
+# Count: 2
 # Country Code: AM
 
 vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#ARISTA🔥
+vless://12c04e26-9bbd-46e0-9972-c131294e4f6e@45.83.143.159:443?mode=auto&path=/&security=reality&encryption=none&pbk=nDudcq4Mop7eRwoa-Q-FxwzNiYjiNu5lNpOUg17jeFY&fp=chrome&spx=/&type=xhttp&sni=nod-f2.irkutsk.online&sid=8a6a#ARISTA🔥

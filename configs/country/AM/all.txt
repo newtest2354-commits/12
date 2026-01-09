@@ -1,9 +1,10 @@
 # All Configurations for AM
-# Updated: 2026-01-09 07:15:16
-# Total Count: 6
+# Updated: 2026-01-09 10:07:14
+# Total Count: 7
 # Country Code: AM
 
 vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#ARISTA🔥
+vless://12c04e26-9bbd-46e0-9972-c131294e4f6e@45.83.143.159:443?mode=auto&path=/&security=reality&encryption=none&pbk=nDudcq4Mop7eRwoa-Q-FxwzNiYjiNu5lNpOUg17jeFY&fp=chrome&spx=/&type=xhttp&sni=nod-f2.irkutsk.online&sid=8a6a#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#ARISTA🔥

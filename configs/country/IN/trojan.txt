@@ -1,8 +1,9 @@
 # IN - TROJAN Configurations
-# Updated: 2026-01-09 16:06:31
-# Count: 3
+# Updated: 2026-01-09 19:16:07
+# Count: 4
 # Country Code: IN
 
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#ARISTA🔥
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#ARISTA🔥
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#ARISTA🔥
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥

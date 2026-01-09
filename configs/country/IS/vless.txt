@@ -1,5 +1,5 @@
 # IS - VLESS Configurations
-# Updated: 2026-01-09 16:06:31
+# Updated: 2026-01-09 19:16:07
 # Count: 1
 # Country Code: IS
 

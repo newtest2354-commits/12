@@ -1,0 +1,6 @@
+# UNKNOWN - TROJAN Configurations
+# Updated: 2026-01-09 19:16:07
+# Count: 1
+# Country Code: UNKNOWN
+
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ARISTA🔥

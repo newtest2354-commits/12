@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-08 21:53:34
+# Updated: 2026-01-09 04:08:47
 # Count: 167
 # Source: GitHub Repositories
 
@@ -168,5 +168,5 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?
 trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#ARISTA🔥
 trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#ARISTA🔥
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws&path=/juzigongyi&Host=09jzus.zdzdzd.xyz#ARISTA🔥
-trojan://3437698@162.159.153.166:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=chrome&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://Watashi_VPN@104.18.13.229:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?ed=2560&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#ARISTA🔥
+trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=t.me/ripaojiedian#ARISTA🔥
+trojan://telegram-id-directvpn@3.129.0.221:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥

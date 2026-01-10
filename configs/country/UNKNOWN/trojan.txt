@@ -1,7 +1,9 @@
 # UNKNOWN - TROJAN Configurations
-# Updated: 2026-01-10 04:03:58
-# Count: 2
+# Updated: 2026-01-10 07:07:35
+# Count: 4
 # Country Code: UNKNOWN
 
 trojan://d30ab83dbde4480082048fb315bedebd@149.248.39.92:443?encryption=none&security=tls&sni=149.248.39.92&type=raw&headertype=none#ARISTA🔥
 trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?encryption=none&security=tls&sni=infiniteinjera.semanticstrainer.click&type=raw&headertype=none#ARISTA🔥
+trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#ARISTA🔥
+trojan://trojan@ip.sb:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#ARISTA🔥

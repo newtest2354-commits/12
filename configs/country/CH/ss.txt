@@ -1,6 +1,0 @@
-# CH - SS Configurations
-# Updated: 2026-01-10 04:03:58
-# Count: 1
-# Country Code: CH
-
-ss://YWVzLTEyOC1nY206dnlabFctb0Zfa1RpcE1CNnVBaUt6QQ@195.15.241.91:443#ARISTA🔥

@@ -1,8 +1,9 @@
 # All Configurations for IS
-# Updated: 2026-01-10 15:54:29
-# Total Count: 3
+# Updated: 2026-01-10 19:10:32
+# Total Count: 4
 # Country Code: IS
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#ARISTA🔥

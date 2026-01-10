@@ -1,6 +1,6 @@
 # JP - VLESS Configurations
-# Updated: 2026-01-10 15:54:29
-# Count: 6
+# Updated: 2026-01-10 19:10:32
+# Count: 7
 # Country Code: JP
 
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
@@ -9,3 +9,4 @@ vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443?security=reality
 vless://760738153-client-573@5.253.41.68:2087?path=/data-x1a3p/#ARISTA🔥
 vless://8153220491-client-f8d@5.253.41.68:2087?path=/data-x1a3p/#ARISTA🔥
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥

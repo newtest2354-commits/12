@@ -1,0 +1,6 @@
+# IS - TROJAN Configurations
+# Updated: 2026-01-10 19:10:32
+# Count: 1
+# Country Code: IS
+
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#ARISTA🔥

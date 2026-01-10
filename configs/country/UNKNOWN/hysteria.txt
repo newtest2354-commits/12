@@ -1,0 +1,12 @@
+# UNKNOWN - HYSTERIA Configurations
+# Updated: 2026-01-10 13:56:05
+# Count: 7
+# Country Code: UNKNOWN
+
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
+hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-jp.mxtn.net:21142?insecure=1&sni=fq-jp.mxtn.net#ARISTA🔥
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-jp.mxtn.net:21458?insecure=1&sni=fq-jp.mxtn.net#ARISTA🔥
+hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-jp.mxtn.net:21855?insecure=1&sni=fq-jp.mxtn.net#ARISTA🔥
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥

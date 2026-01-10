@@ -1,6 +1,0 @@
-# AR - VMESS Configurations
-# Updated: 2026-01-09 21:52:04
-# Count: 1
-# Country Code: AR
-
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6ImluMDYuZG5zMjAyNC5vcmciLCJwb3J0IjoiNjMwMDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZThlNmY2MTgtODQyYy0zM2Q0LTlhOWYtNzgyNzYxNGE2YmY5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYWcwMS1jZG4ubXluMWRlcy5jb20iLCJ0bHMiOiIifQ==

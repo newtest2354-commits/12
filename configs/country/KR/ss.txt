@@ -1,5 +1,5 @@
 # KR - SS Configurations
-# Updated: 2026-01-09 21:52:04
+# Updated: 2026-01-10 04:03:58
 # Count: 7
 # Country Code: KR
 

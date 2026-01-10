@@ -1,5 +1,5 @@
 # All Configurations for AR
-# Updated: 2026-01-10 07:07:35
+# Updated: 2026-01-10 09:57:13
 # Total Count: 6
 # Country Code: AR
 

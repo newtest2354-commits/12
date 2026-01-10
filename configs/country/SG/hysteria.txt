@@ -1,8 +1,0 @@
-# SG - HYSTERIA Configurations
-# Updated: 2026-01-10 13:56:05
-# Count: 3
-# Country Code: SG
-
-hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-sg.mxtn.net:21006?insecure=1&sni=fq-sg.mxtn.net#ARISTA🔥
-hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-sg.mxtn.net:21062?insecure=1&sni=fq-sg.mxtn.net#ARISTA🔥
-hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-sg.mxtn.net:21658?insecure=1&sni=fq-sg.mxtn.net#ARISTA🔥

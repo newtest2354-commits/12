@@ -1,6 +1,0 @@
-# GR - VLESS Configurations
-# Updated: 2026-01-10 13:56:05
-# Count: 1
-# Country Code: GR
-
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.26.35:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=qq&type=xhttp&sni=chat.speedload.ru#ARISTA🔥

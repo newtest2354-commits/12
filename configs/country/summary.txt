@@ -1,69 +1,69 @@
 # Country Classification Summary
-# Updated: 2026-01-10 13:56:05
+# Updated: 2026-01-10 15:54:29
 
-Total configs processed: 5912
-IP-based configs: 4876
+Total configs processed: 5844
+IP-based configs: 4842
   - Fixed IP (Datacenter): 0
   - CDN IP (Excluded): 0
-  - Unknown IP: 4876
-Domain-based configs: 986
+  - Unknown IP: 4842
+Domain-based configs: 952
 
 IP-Based Configs by Country (CDN Excluded):
-  CA: 1207
-  US: 962
-  RU: 783
-  DE: 277
-  NL: 246
-  IR: 218
+  CA: 1195
+  US: 948
+  RU: 779
+  DE: 285
+  NL: 244
+  IR: 229
   PL: 154
-  FR: 150
-  GB: 119
-  UNKNOWN: 114
-  FI: 70
+  FR: 145
+  GB: 116
+  UNKNOWN: 112
+  FI: 71
   HK: 64
   VN: 50
-  SG: 37
+  SG: 34
   AE: 28
   TR: 28
   JP: 24
+  SE: 22
   BR: 21
-  SE: 19
-  KR: 14
-  IN: 14
   KZ: 13
-  AU: 13
-  GR: 12
+  IN: 12
+  AU: 12
   SA: 12
+  KR: 11
   IL: 11
-  EE: 10
+  GR: 11
   MY: 9
-  UA: 9
+  CH: 9
   LT: 9
+  UA: 9
   IT: 8
-  CH: 8
   AM: 8
   MK: 8
   PK: 8
-  CN: 7
   TW: 7
   MX: 7
   KW: 7
   JO: 7
   EG: 7
+  CN: 6
   TH: 6
   LV: 6
+  EE: 6
   AR: 6
   SK: 5
   RO: 5
-  HU: 5
   MD: 5
-  BG: 4
+  AT: 4
   CZ: 4
+  BG: 4
+  HU: 4
   NO: 4
   SI: 4
   IS: 3
   DK: 3
-  AT: 3
   ES: 3
   PT: 3
   KH: 3
@@ -74,9 +74,8 @@ IP-Based Configs by Country (CDN Excluded):
   MT: 2
   CY: 2
   CO: 2
-  VG: 1
-  AZ: 1
   VE: 1
+  AZ: 1
   CL: 1
   MM: 1
   NG: 1
@@ -87,16 +86,16 @@ IP-Based Configs by Country (CDN Excluded):
   ID: 1
 
 By Protocol:
-  vless: 4088
-  ss: 799
-  vmess: 579
-  trojan: 214
-  hysteria: 182
+  vless: 4054
+  ss: 796
+  vmess: 580
+  trojan: 211
+  hysteria: 153
 
 By IP Type:
-  UNKNOWN: 4876
-  DOMAIN: 986
+  UNKNOWN: 4842
+  DOMAIN: 952
 
 Detailed IP Type Summary:
-  UNKNOWN: 4876 configs
-  DOMAIN: 986 configs
+  UNKNOWN: 4842 configs
+  DOMAIN: 952 configs

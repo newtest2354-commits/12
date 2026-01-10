@@ -1,8 +1,7 @@
 # AU - VLESS Configurations
-# Updated: 2026-01-10 13:56:05
-# Count: 3
+# Updated: 2026-01-10 15:54:29
+# Count: 2
 # Country Code: AU
 
-vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
-vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#ARISTA🔥
+vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥

@@ -1,11 +1,10 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-11 04:31:47
-# Count: 6
+# Updated: 2026-01-11 07:11:32
+# Count: 5
 # Country Code: HU
 
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=e55fd8f9c9a9a0ca&type=tcp&headerType=none#ARISTA🔥
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
-vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@37.18.14.184:8090?encryption=none&security=tls&sni=chat.speedload.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&path=%2Fws#ARISTA🔥

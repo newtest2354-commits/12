@@ -1,5 +1,5 @@
 # All Configurations for AE
-# Updated: 2026-01-11 09:54:21
+# Updated: 2026-01-11 13:56:39
 # Total Count: 18
 # Country Code: AE
 
@@ -8,8 +8,8 @@ vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:2087?security=none&s
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
-vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
 vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
 vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
 vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@188.72.103.3:443?encryption=none&security=tls&sni=cdntwo.dnsttlocate.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=cdntwo.dnsttlocate.ru&path=%2F#ARISTA🔥
 vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@cdncloudone.serverstats.ru:443?encryption=none&security=tls&sni=cdncloudone.serverstats.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=cdncloudone.serverstats.ru&path=%2F#ARISTA🔥

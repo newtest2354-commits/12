@@ -1,14 +1,14 @@
-Updated: 2026-01-11 09:54 UTC
-Telegram configs: 1456
-GitHub configs: 4894
-Combined configs: 6141
+Updated: 2026-01-11 13:56 UTC
+Telegram configs: 1454
+GitHub configs: 4922
+Combined configs: 6172
 IP Classification Stats:
 Fixed IP (Datacenter): 0
 CDN IP: 0
-Unknown IP: 5024
+Unknown IP: 5032
 Top 5 countries:
-  CA: 1252
-  DOMAIN: 1063
-  US: 992
+  CA: 1249
+  DOMAIN: 1086
+  US: 980
   RU: 845
   DE: 267

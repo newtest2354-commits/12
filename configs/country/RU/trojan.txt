@@ -1,17 +1,17 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-11 09:54:21
+# Updated: 2026-01-11 13:56:39
 # Count: 12
 # Country Code: RU
 
-trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
+trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://z3peq5hmbdqf7h41g9lyaxpgd1rn@38.60.168.10:26390?security=tls&sni=m.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://icfh96dejn3%3Dqrbzf.tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://zblhwr0mqmakcpg.n@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://rpyw62_b9ah.ztjkearou@83.143.87.9:18581?security=tls&sni=m.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://icfh96dejn3%3Dqrbzf.tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥

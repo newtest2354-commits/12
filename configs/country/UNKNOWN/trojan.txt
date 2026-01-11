@@ -1,8 +1,9 @@
 # UNKNOWN - TROJAN Configurations
-# Updated: 2026-01-11 09:54:21
-# Count: 3
+# Updated: 2026-01-11 13:56:39
+# Count: 4
 # Country Code: UNKNOWN
 
-trojan://x.8ur1qicyzlrhxeab5uwodfgz04s@45.32.158.138:20994?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://4jt6cn%2321.rzqjteuedhm@217.170.199.80:21363?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://x.8ur1qicyzlrhxeab5uwodfgz04s@45.32.158.138:20994?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ARISTA🔥

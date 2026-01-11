@@ -1,5 +1,5 @@
 # SE - VLESS Configurations
-# Updated: 2026-01-11 19:04:43
+# Updated: 2026-01-11 21:46:41
 # Count: 12
 # Country Code: SE
 
@@ -10,8 +10,8 @@ vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.200.180:443?type=grpc&encrypt
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.200.48:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.203.253:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.201.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
-vless://e1df1966-4d5e-43ec-b2da-bb935a258351@95.163.248.53:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=chat.speedload.ru#ARISTA🔥
-vless://e1df1966-4d5e-43ec-b2da-bb935a258351@37.18.14.184:7443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@51.250.104.227:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=chat.speedload.ru#ARISTA🔥
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@217.16.25.129:7443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
 vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?security=reality&encryption=none&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pinova.io#ARISTA🔥
 vless://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
 vless://ee99096b-0f43-484a-bfd1-f7ecd75e809e@141.227.160.163:25537?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥

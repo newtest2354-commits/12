@@ -1,9 +1,8 @@
 # UNKNOWN - TROJAN Configurations
-# Updated: 2026-01-11 19:04:43
-# Count: 4
+# Updated: 2026-01-11 21:46:41
+# Count: 3
 # Country Code: UNKNOWN
 
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?encryption=none&security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#ARISTA🔥
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ARISTA🔥
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&amp;security=tls&amp;host=snippets.kkii.eu.org&amp;type=ws&amp;sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?encryption=none&security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#ARISTA🔥
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=/&amp;security=tls&amp;host=snippets.kkii.eu.org&amp;type=ws&amp;sni=snippets.kkii.eu.org#ARISTA🔥

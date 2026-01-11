@@ -1,17 +1,17 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-11 19:04:43
+# Updated: 2026-01-11 21:46:41
 # Count: 12
 # Country Code: RU
 
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
-trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
+trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668?security=tls&headerType=none&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&headerType=none&type=tcp&sni=ya.ru#ARISTA🔥
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=none&type=tcp&sni=ozon.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥

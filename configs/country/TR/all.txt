@@ -1,5 +1,5 @@
 # All Configurations for TR
-# Updated: 2026-01-11 19:04:43
+# Updated: 2026-01-11 21:46:41
 # Total Count: 24
 # Country Code: TR
 

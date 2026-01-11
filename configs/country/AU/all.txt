@@ -1,9 +1,8 @@
 # All Configurations for AU
-# Updated: 2026-01-11 19:04:43
-# Total Count: 12
+# Updated: 2026-01-11 21:46:41
+# Total Count: 11
 # Country Code: AU
 
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.196.13:8880?path=%2Ftelegram-channel-mtmvpn---telegram-channel-mtmvpn&security=none&encryption=none&host=c.82313369.xyz&type=ws&sni=Telegram-channel-WangCai2#ARISTA🔥
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ARISTA🔥

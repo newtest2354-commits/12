@@ -1,9 +1,6 @@
 # CA - HYSTERIA Configurations
-# Updated: 2026-01-11 13:56:39
-# Count: 4
+# Updated: 2026-01-11 15:51:25
+# Count: 1
 # Country Code: CA
 
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#ARISTA🔥
-hysteria2://8aee373a-7189-4ec6-84d2-d4a2198c463c@xjp.kaixincloud.top:25200?insecure=1&sni=xjp.kaixincloud.top#ARISTA🔥
-hysteria2://9c14924a-80c4-424a-a87c-84c3e3ed1538@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
-hysteria2://b03b4fc5-4d60-428c-ae6d-87d365a5b5a7@jnd.dabache.top:20000?insecure=1&sni=jnd.dabache.top#ARISTA🔥

@@ -1,35 +1,34 @@
 # FR - VLESS Configurations
-# Updated: 2026-01-11 13:56:39
-# Count: 61
+# Updated: 2026-01-11 15:51:25
+# Count: 60
 # Country Code: FR
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&security=none&encryption=none&host=vless.hubp.de&type=ws&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20%28%40AZARBAYJAB1%29#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://44956c15-75bb-4e09-b5b8-d58af3c1f5cb@13.39.214.100:21464?type=tcp&security=none#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://d8472822-8b6a-47b5-b555-a1587e684327@54.38.3.4:2052?path=%2F&security=none&encryption=none&host=ip4.ip-54-38-3.eu&type=ws#ARISTA🔥
 vless://4c3e4950-5c09-4a19-a25f-ce6294115275@141.227.132.7:21425?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?security=none&encryption=none&type=grpc#ARISTA🔥
+vless://d8472822-8b6a-47b5-b555-a1587e684327@54.38.3.4:2052?path=%2F&security=none&encryption=none&host=ip4.ip-54-38-3.eu&type=ws#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#ARISTA🔥
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?fp=chrome&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&security=reality&sid=86f206ece9dc61c7&sni=pn8rackapp.breaknet2.eu&spx=/whCy5Fni9VG0Y0A&type=tcp#ARISTA🔥
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&headerType=none&fp=chrome&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&fp=chrome&spx=/whCy5Fni9VG0Y0A&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://44956c15-75bb-4e09-b5b8-d58af3c1f5cb@13.39.214.100:21464?type=tcp&security=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=#ARISTA🔥
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&security=none&encryption=none&host=vless.hubp.de&type=ws&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20%28%40AZARBAYJAB1%29#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&headerType=none&fp=chrome&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
+vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?fp=chrome&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&security=reality&sid=86f206ece9dc61c7&sni=pn8rackapp.breaknet2.eu&spx=/whCy5Fni9VG0Y0A&type=tcp#ARISTA🔥
+vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
+vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?security=reality&encryption=none&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&fp=chrome&spx=/whCy5Fni9VG0Y0A&type=tcp&sni=pn8rackapp.breaknet2.eu&sid=86f206ece9dc61c7#ARISTA🔥
 vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=%2Fvless&security=none&encryption=none&host=france-paris.hostinger.kcartik-vps.com&type=ws#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145565996.prague-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#ARISTA🔥
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
@@ -40,7 +39,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
@@ -52,13 +56,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
 vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://c07c29af-dada-427c-8f28-15b7200a6c08@51.68.93.212:10125?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥

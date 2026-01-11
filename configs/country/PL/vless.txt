@@ -1,14 +1,15 @@
 # PL - VLESS Configurations
-# Updated: 2026-01-11 13:56:39
-# Count: 12
+# Updated: 2026-01-11 15:51:25
+# Count: 13
 # Country Code: PL
 
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.144.51.14:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aneta.kosmolet.xyz&fp=chrome&security=reality&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4#ARISTA🔥
-vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443?type=tcp&encryption=none&security=tls&sni=plcdn23.suio.me#ARISTA🔥
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?type=tcp&encryption=none&security=tls&sni=plcdn17.suio.me&allowInsecure=1#ARISTA🔥
+vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn23.suio.me:443?type=tcp&encryption=none&security=tls&sni=plcdn23.suio.me#ARISTA🔥
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol.overload.ovh&fp=chrome&security=reality&pbk=NUdsKU2YwT4H__ap8TqR4IjAxtVVQ5lcha7nY28wpC0&sid=b92f4cd882f76e2b#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
+vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@217.13.104.130:443?encryption=none&security=tls&sni=chat.speedload.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=chat.speedload.ru&path=%2F#ARISTA🔥
 vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@217.13.104.130:8443?encryption=none&security=tls&sni=chat.speedload.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&path=%2Fws#ARISTA🔥
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@144.31.2.61:443?encryption=none&security=tls&sni=plcdn23.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://5265b96a-6b03-4ebd-8d53-ea85a7c31634@pl.cloudhi.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.cloudhi.cc&fp=chrome&pbk=f72ggmp77wzbhpevcbpn2-2f_nu95oec5gdz87unzxi&sid=9999&spx=%2F&type=tcp&headerType=none#ARISTA🔥

@@ -1,10 +1,12 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-11 15:51:25
-# Count: 5
+# Updated: 2026-01-11 19:04:43
+# Count: 7
 # Country Code: HU
 
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#ARISTA🔥
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=e55fd8f9c9a9a0ca&type=tcp&headerType=none#ARISTA🔥
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.jojack.ru&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.149:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=c8597fb67d55d9c4#ARISTA🔥
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.154:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=c8597fb67d55d9c4#ARISTA🔥
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@217.16.26.158:7443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=qq&type=xhttp&sni=chat.speedload.ru#ARISTA🔥
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@217.16.26.158:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&type=ws&sni=chat.speedload.ru#ARISTA🔥
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=e55fd8f9c9a9a0ca#ARISTA🔥
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.13.104.148:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=c8597fb67d55d9c4#ARISTA🔥

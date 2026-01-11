@@ -1,6 +1,0 @@
-# All Configurations for KE
-# Updated: 2026-01-11 15:51:25
-# Total Count: 1
-# Country Code: KE
-
-vless://89722a6c-e074-4651-d0a7-6ad6c29ce87b@20.96.165.134:80?mode=gun&security=reality&encryption=none&pbk=EyQUEBzlUrhZxnNL5uODPYYMu50SCsZo4abimP9aWlI&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=microsoft.com&sid=c811882c07#ARISTA🔥

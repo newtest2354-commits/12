@@ -1,9 +1,10 @@
 # KZ - VLESS Configurations
-# Updated: 2026-01-11 15:51:25
-# Count: 4
+# Updated: 2026-01-11 19:04:43
+# Count: 5
 # Country Code: KZ
 
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aigul.kosmolet.xyz&fp=chrome&security=reality&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#ARISTA🔥
+vless://e1df1966-4d5e-43ec-b2da-bb935a258351@91.224.74.245:8443?security=reality&encryption=none&pbk=Q14CnaHWZmHtoKtHOJyZoZgvGrOkiwN75hXakkrNCHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kzt.overload.ovh&sid=d51dc759a379666c#ARISTA🔥
 vless://a4b82845-20ef-40ef-b3e1-41060dacdea8@zula.ir:8443?encryption=none&security=tls&sni=kz-1-ss8.rayan-dns.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kz-1-ss8.rayan-dns.dpdns.org&path=%2Fvless%2F#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥

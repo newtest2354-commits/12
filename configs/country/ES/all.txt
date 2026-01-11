@@ -1,9 +1,8 @@
 # All Configurations for ES
-# Updated: 2026-01-11 07:11:32
-# Total Count: 4
+# Updated: 2026-01-11 09:54:21
+# Total Count: 3
 # Country Code: ES
 
-vless://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?security=none&type=ws&path=%2F&host=subscription.lormarb.ir&encryption=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ARISTA🔥

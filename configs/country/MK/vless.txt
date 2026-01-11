@@ -1,7 +1,7 @@
 # MK - VLESS Configurations
-# Updated: 2026-01-10 21:44:19
+# Updated: 2026-01-11 04:31:47
 # Count: 2
 # Country Code: MK
 
-vless://62e18440-148d-4b82-8a14-160c35144ffd@gamma-smart-agent-worker-wild.dlcnamatike7.com:19771?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
 vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@forest-moon-pulse-bright-quick.dlcnamatike7.com:19771?type=ws&encryption=none&path=%2F&host=&security=none#ARISTA🔥
+vless://62e18440-148d-4b82-8a14-160c35144ffd@gamma-smart-agent-worker-wild.dlcnamatike7.com:19771?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥

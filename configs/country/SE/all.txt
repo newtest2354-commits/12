@@ -1,9 +1,10 @@
 # All Configurations for SE
-# Updated: 2026-01-10 21:44:19
-# Total Count: 18
+# Updated: 2026-01-11 04:31:47
+# Total Count: 19
 # Country Code: SE
 
 vmess://eyJhZGQiOiIxMDMuMjUuODUuMTc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRlZDM1NjA5LWUyODQtNDM4NS05N2U2LTc3ODE2ZWZhOGRkMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://10748969-517b-4baf-b065-7b623657d296@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pinova.io&security=reality&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&sid=&packetEncoding=xudp#ARISTA🔥
 vless://ca0cee79-9920-4bce-aa2a-be89d6d84790@70.34.194.73:8443?security=reality&sni=sto-se-ping.vultr.com&type=tcp&fp=chrome&pbk=kQzN2YuAfK6zLF-YnToH8KJsBClM_XPr38Xlzr4Q3Bw&sid=c970cd609c52577e#ARISTA🔥
 vless://5513d21b-1f8a-43e2-9697-f799b1ee699c@141.227.160.163:25538?encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#ARISTA🔥
@@ -19,5 +20,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#ARISTA🔥
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#ARISTA🔥
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1#ARISTA🔥
 hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#ARISTA🔥
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1#ARISTA🔥

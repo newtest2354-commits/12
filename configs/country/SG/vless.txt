@@ -1,9 +1,11 @@
 # SG - VLESS Configurations
-# Updated: 2026-01-10 21:44:19
-# Count: 4
+# Updated: 2026-01-11 04:31:47
+# Count: 6
 # Country Code: SG
 
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&type=ws&host=free-server.techsonic.cloud&path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=free-server.techsonic.cloud#ARISTA🔥
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3&encryption=none&type=ws&sni=free-server.techsonic.cloud#ARISTA🔥
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.ok.com&sid=3f200574d011010f#ARISTA🔥
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.ok.com&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=3f200574d011010f&type=tcp&headerType=none#ARISTA🔥
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.ok.com&fp=chrome&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=4a3ad88ff867a295&type=tcp&headerType=none#ARISTA🔥
+vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.ok.com&fp=qq&pbk=fkmyfobwxlmlektyxywmjthueyczggitsxwpnastkug&sid=cd57a927f6b72d81&spx=%2F&type=tcp&headerType=none#ARISTA🔥
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=/&security=none&encryption=none&host=support.sslzoom.us&type=ws#ARISTA🔥

@@ -1,5 +1,5 @@
 # All Configurations for KZ
-# Updated: 2026-01-10 21:44:19
+# Updated: 2026-01-11 04:31:47
 # Total Count: 13
 # Country Code: KZ
 
@@ -8,8 +8,8 @@ vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443/?type=tcp&encrypt
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#ARISTA🔥
 vless://a4b82845-20ef-40ef-b3e1-41060dacdea8@zula.ir:8443?encryption=none&security=tls&sni=kz-1-ss8.rayan-dns.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kz-1-ss8.rayan-dns.dpdns.org&path=%2Fvless%2F#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#ARISTA🔥

@@ -1,6 +1,6 @@
 # All Configurations for AE
-# Updated: 2026-01-10 21:44:19
-# Total Count: 28
+# Updated: 2026-01-11 04:31:47
+# Total Count: 18
 # Country Code: AE
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjIwLjIwMy45OC4xNjciLCJwb3J0Ijo4MDgwLCJpZCI6IjU1MmIxZjAzLTM3MWEtNGZiNS1kNTEyLTI4NDRhNDc3YTRiNCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwYXRoIjoiLyJ9
@@ -8,21 +8,11 @@ vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:2087?security=none&s
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
-vless://2f15d678-99e3-4730-aa94-abf2628cd69d@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&type=xhttp&sni=ya.volgogradskie.ru#ARISTA🔥
-vless://2f15d678-99e3-4730-aa94-abf2628cd69d@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp&sni=ya.volgogradskie.ru#ARISTA🔥
-vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&fp=chrome&type=xhttp&sni=ws.fjdjdjfjd.icu#ARISTA🔥
-vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&type=xhttp&sni=ws.fjdjdjfjd.icu#ARISTA🔥
-vless://a72a7148-24d8-4494-981d-6dfa96a55020@cdntwo.dnsttlocate.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdntwo.dnsttlocate.ru&fp=chrome&type=xhttp&sni=cdntwo.dnsttlocate.ru#ARISTA🔥
-vless://a72a7148-24d8-4494-981d-6dfa96a55020@cdnsix.vk-com.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdnsix.vk-com.ru&fp=chrome&type=xhttp&sni=cdnsix.vk-com.ru#ARISTA🔥
-vless://a72a7148-24d8-4494-981d-6dfa96a55020@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdnsix.vk-com.ru&fp=randomized&type=xhttp&sni=cdnsix.vk-com.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdntwo.dnsttlocate.ru&fp=chrome&type=xhttp&sni=cdntwo.dnsttlocate.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdnsix.vk-com.ru&fp=chrome&type=xhttp&sni=cdnsix.vk-com.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdnsix.vk-com.ru&fp=randomized&type=xhttp&sni=cdnsix.vk-com.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn.speedload.ru&fp=chrome&type=xhttp&sni=cdn.speedload.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdncloudtwo.serverstats.ru&fp=chrome&type=xhttp&sni=cdncloudtwo.serverstats.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdnfive.serverstats.ru&fp=chrome&type=xhttp&sni=cdnfive.serverstats.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdncloudthree.serverstats.ru&fp=chrome&type=xhttp&sni=cdncloudthree.serverstats.ru#ARISTA🔥
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdncloudone.serverstats.ru&fp=chrome&type=xhttp&sni=cdncloudone.serverstats.ru#ARISTA🔥
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto#ARISTA🔥
+vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@188.72.103.3:443?encryption=none&security=tls&sni=cdntwo.dnsttlocate.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=cdntwo.dnsttlocate.ru&path=%2F#ARISTA🔥
+vless://ff3d5b01-9ecc-4b05-9a37-511871f8438e@cdncloudone.serverstats.ru:443?encryption=none&security=tls&sni=cdncloudone.serverstats.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=cdncloudone.serverstats.ru&path=%2F#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.57.251.240:990#ARISTA🔥

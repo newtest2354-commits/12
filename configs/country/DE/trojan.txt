@@ -1,12 +1,10 @@
 # DE - TROJAN Configurations
-# Updated: 2026-01-10 21:44:19
-# Count: 7
+# Updated: 2026-01-11 04:31:47
+# Count: 5
 # Country Code: DE
 
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&path=/#ARISTA🔥
 trojan://zL7CpPYxhvFtYqm2yAbHrw@64.225.93.183:7391?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?type=ws&host=free-de-3.undef.network&path=/f2fc2a1f&security=tls&sni=free-de-3.undef.network#ARISTA🔥
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&type=ws&host=free-de-3.undef.network&path=/f2fc2a1f#ARISTA🔥
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network#ARISTA🔥
 trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.93.183:7391?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#ARISTA🔥

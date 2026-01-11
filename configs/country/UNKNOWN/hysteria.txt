@@ -1,0 +1,6 @@
+# UNKNOWN - HYSTERIA Configurations
+# Updated: 2026-01-11 04:31:47
+# Count: 1
+# Country Code: UNKNOWN
+
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
